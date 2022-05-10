@@ -103,7 +103,7 @@ That is, a game can say it is multiply features.
   * Like MMORPG, the storying in game never end.
 * Sandbox/Nonlinear/OpenWorld：
   * A game can do many purpose, lots of feature can play
-  * This is like Meta just another name of VR, WRPG or Roguelike already has this feature
+  * This is like Meta just another name of VR, while both WRPG and Roguelike already has this feature
 * Galgame：
   * Like Interactive film, there is many dialog options to achieve different ending of the story
   * Usually lots of 2D hand-drawing CG, many galgame has Full Audio of dialog
