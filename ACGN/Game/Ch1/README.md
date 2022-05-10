@@ -31,6 +31,9 @@ That is, a game can say it is multiply features.
   * such as Escape the room, Interactive film
 * Strategy:
   * need to manage your resources to achieve goal
+* Puzzle:
+  * need to solve problem
+  * the key difference between Strategy and Puzzle is to defeat rival
 * Casual:
   * The goal is easy to achieve something, tyring not to push pressure on player
 * Crafting:
@@ -51,11 +54,22 @@ That is, a game can say it is multiply features.
   * Famous STG games are Raiden, Contra
 * Platformer
   * evolution from STG, not noly scrolling at one direction
-  * * Famous Platformer games are Mario, Sonic
+  * Famous Platformer games are Mario, Sonic
 * Castlevania-like
   * Evolution from platformer
   * Further, the game map usually relate to world setting
   * This is one of the famous game and affect many games even in soul-serious
+* Roguelike:
+  * A kind of RPG but everything random,
+  * Random map, random monster, random event, etx.
+  * Progress is completely deleted immediately when die
+  * The First roguelike games are rogue、hack、moria、larn、omega
+  * Famous Roguelike games are angband, ADOM, TOME, Lunatic Dawn, ELONA
+* Roguelite:
+  * everything random, but part of progress are remained when die
+* ARPG (Action RPG):
+  * RPG combine action fighting,
+  * Famous ARPG are Devil Hunter, NieR, Bayonetta, God of War, Nion, Monster Hunter
 * TRPG (Table RPG):
   * Before the video game, one of the famous table game is DnD(Dungeons & Dragons)
   * This is deeply affect hole gaming industry
@@ -76,6 +90,38 @@ That is, a game can say it is multiply features.
 * SRPG(Strategy Role Playing Game)：
   * RPG with strategy, usually turn-based (real-time is RTS)
   * Famous SRPG are Fire Emblem, Ogre Battle
-* 
-  
+* Online RPG:
+  * In 1990, some RPG is able to play online but a room only have few people.
+  * For example, the limit of player in a room is 8 at Diablo II 
+  * Usually the goal in not to see the ending of the story
+* MMORPG(massively multiplayer online RPG)：
+  * The server is able to contain hundard thousands players
+  * There is no storying ending
+  * Keep increasing missions, events
+* Mobile RPG:
+  * Like MMORPG, the storying in game never end.
+* Sandbox/Nonlinear/OpenWorld：
+  * A game can do many purpose, lots of feature can play
+  * This is like Meta just another name of VR, WRPG or Roguelike already has this feature
+* Galgame：
+  * Like Interactive film, there is many dialog options to achieve different ending of the story
+  * Usually lots of 2D hand-drawing CG, many galgame has Full Audio of dialog
+* Visual Novel:
+  * Like galgame but no audio
+* RTS(Real-time strategy)：
+  * Need to manage resource to defeat rival in real-time 
+  * The famous RTS games are Dune, StarCraft, Warcraft, Age of Empires
+  * You cannot not see what happen on entire map, so you need to use your unit to explore the region
+* RTT(Real-time tactics)
+  * You can see entire map information.
+  * That is, you can do something approaching the limit 
+* MOBA(multiplayer online battle arena)
+  * Evolution from RTS, simplify the number of unit
+  * Need to coorperate with teammate
+* Incremental games：
+  * Usually is a kind of casual game, just increasing items
 
+## Recommand Youtube Channel
+* [Lunamos](https://www.youtube.com/c/LunamosGaming)
+* [dogsama](https://www.youtube.com/c/dogsama)
+* [Gamker](https://www.youtube.com/channel/UCLgGLSFMZQB8c0WGcwE49Gw)
