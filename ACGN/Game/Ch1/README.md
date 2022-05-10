@@ -86,6 +86,7 @@ That is, a game can say it is multiply features.
 * JRPG(Japanese RPG):
   * Ralitive to WRPG, JRPG usually has few storie lines
   * The famous one is Dragon Quest, we can see it is deeply affected by TRPG 
+  * Other famous JRPG are Final Fantasy, Atelier series, Persona, 
   * The best JRPG is Chrono Trigger
 * SRPG(Strategy Role Playing Game)：
   * RPG with strategy, usually turn-based (real-time is RTS)
