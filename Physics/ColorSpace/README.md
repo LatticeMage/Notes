@@ -60,5 +60,5 @@ A little like YUV, LAB space also has an L-axis is lightness.
 AB is like XY coordination.  
 The most important is that it is also CIE, human eye sensitive.
 
-<img src="https://sensing.konicaminolta.asia/wp-content/uploads/2018/09/3D-LAB.jpg" />
+<img src="https://i.imgur.com/sTDteRp.jpg" />
 <img src="https://sensing.konicaminolta.asia/wp-content/uploads/2018/09/Apple%20ab%20Chart.jpg" />
