@@ -36,7 +36,13 @@ Thus, in traditional camera space will try to seprate gray and other color.
 
 RGB and YUV is able to calculate by martix.
 
-0:299 0:587 0:114
-􀀀0:299 􀀀0:587 0:886
-0:701 􀀀0:587 􀀀0:114
+\left(
+\begin{array}{ccc}
+0.299 & 0.587 & 0.114\\
+-0.299 & -0.587 & 0.886\\
+0.701 & -0.587 & -0.114\\
+\end{array}
+\right)
+
+
 ###
