@@ -23,6 +23,15 @@ Green > Red > Blue
 Like coordinate systems may be Cartesian coordinate system or Polar coordinate system.  
 Color Space also has lots of coordinate systems.
 
+## RGB-CMYK
+RGB color model is an additive color model.  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Barn_grand_tetons_rgb_separation.jpg/320px-Barn_grand_tetons_rgb_separation.jpg" />
+
+CMYK is a subtractive color model,  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/CMYK_color_swatches.svg/150px-CMYK_color_swatches.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/CMYK_subtractive_color_mixing.svg/150px-CMYK_subtractive_color_mixing.svg.png" />
+
 ## CIE Space
 CIE (International Commission on Illumination) is human color vision.
 
