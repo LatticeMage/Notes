@@ -5,6 +5,12 @@
 Reference:  
 [Revolution OS (作業系統革命)](https://www.youtube.com/watch?v=vWwvh3036Fw)
 
+* GPL
+  * Need to open source code
+  * viral effect
+* MIT
+  * Able to be close
+
 
 ### Problem: Android
 LGPL
