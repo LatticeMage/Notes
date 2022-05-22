@@ -7,7 +7,10 @@ Ch06 Solfège
 Ch07 Overtone and Harmonic  
 Ch08 Chord and Inversion  
 Ch09 Figured bass   
-Ch10 Scale  
+Ch10 Scale and mode  
+Ch11 chord progression  
+Ch12 Cadence  
+Ch13 Circle of fifth  
 Ch11 four-part harmony  
 Ch12 band  
 Ch13 drum  
