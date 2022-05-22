@@ -1,4 +1,4 @@
-# Ch01 Pitch and Interval
+# Ch03 Pitch and Interval
 
 ## 好和弦
 課程沒有系統化
