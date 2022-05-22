@@ -1,5 +1,7 @@
-# Ch02 Intervals
+# Ch04 Intervals
 
+## Intervals
+distance of pitch
 |Semitone|intervals|intervals|
 |-|-|-|
 0|P1|d2|
@@ -15,3 +17,6 @@
 10|m7|A6|
 11|M7|d8|
 12|P8|A7|
+
+## Circle of fifths
+https://en.wikipedia.org/wiki/Circle_of_fifths
