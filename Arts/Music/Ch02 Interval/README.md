@@ -1,4 +1,4 @@
-# Ch01 Intervals
+# Ch02 Intervals
 
 |Semitone|intervals|intervals|
 |-|-|-|
