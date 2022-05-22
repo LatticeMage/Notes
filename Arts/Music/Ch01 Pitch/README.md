@@ -1,4 +1,4 @@
-# Music Theory
+# Ch01 Pitch
 
 ## 好和弦
 課程沒有系統化
