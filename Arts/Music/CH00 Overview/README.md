@@ -1,8 +1,15 @@
 
 * Musescore
+  * clef
 * rhythm notation
+  * speed
+  * tuplet
 * melody notation
+  * Key signature
 * Pitch and Interval
+  * A4 440Hz
+  * Justoni
+  * Equal temperament
 * Solfège
 * Overtone and Harmonic
 * Chord and Inversion
