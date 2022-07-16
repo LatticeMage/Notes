@@ -3,6 +3,7 @@
 ---
 tags:
   - [[Music Theory]]
+  - [[NiceChord+ (好和弦+)]]
 ---
 
 ## 好和弦
