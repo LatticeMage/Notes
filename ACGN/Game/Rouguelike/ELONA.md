@@ -1,0 +1,7 @@
+# ELONA
+
+---
+tags:
+  - [[Rouguelike]]
+---
+
