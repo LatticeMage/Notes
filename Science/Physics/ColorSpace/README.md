@@ -1,5 +1,10 @@
 # Color Space
 
+---
+tags:
+  - [[Color]]
+---
+
 ## Mechanism
 
 ### visible spectrum

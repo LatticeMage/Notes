@@ -1,5 +1,11 @@
 # Arcanum
 
+---
+tags:
+  - [[English]]
+  - [[Game]]
+---
+
 * ambition
   * a strong wish to achieve something
 * concise

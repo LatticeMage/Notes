@@ -1,5 +1,11 @@
 # vocabularies
 
+---
+tags:
+  - [[English]]
+  - [[Game]]
+---
+
   * abrupt
     * sudden and unexpected.
   * opulence 

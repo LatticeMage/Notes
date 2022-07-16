@@ -1,5 +1,10 @@
 # Ch03 Pitch and Interval
 
+---
+tags:
+  - [[Music Theory]]
+---
+
 ## 好和弦
 課程沒有系統化
 

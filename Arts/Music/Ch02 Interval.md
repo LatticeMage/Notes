@@ -1,5 +1,10 @@
 # Ch04 Intervals
 
+---
+tags:
+  - [[Music Theory]]
+---
+
 ## Intervals
 distance of pitch
 |Semitone|intervals|intervals|

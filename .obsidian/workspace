@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c06055ca8b47246",
+        "id": "defbba5aa76be094",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +82,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c06055ca8b47246",
+  "active": "defbba5aa76be094",
   "lastOpenFiles": [
-    "README.md"
+    "Language/English/Vocabulary/DungeonsAndDesktops.md",
+    "Language/English/Vocabulary/Arcanum.md",
+    "README.md",
+    "Science/Physics/ColorSpace/README.md",
+    "Arts/Drawing/CH0/README.md",
+    "Science/Programming/ComputerScience/Graphics/APIs/README.md",
+    "Untitled.md",
+    "Arts/Music/Ch07 Figured bass/README.md"
   ]
 }
