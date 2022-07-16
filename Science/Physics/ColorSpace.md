@@ -3,6 +3,9 @@
 ---
 tags:
   - [[Color]]
+  - [[Biology]]
+  - [[Physics]]
+  - [[眼见为识]]
 ---
 
 ## Mechanism

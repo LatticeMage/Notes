@@ -1,5 +1,13 @@
 # Copyright
 
+---
+tags:
+  - [[Coding]]
+  - [[Law]]
+  - [[Lisence]]
+---
+
+
 ## MIT vs GPL
 
 Reference:  

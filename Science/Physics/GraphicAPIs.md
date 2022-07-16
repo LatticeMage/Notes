@@ -1,5 +1,12 @@
 # DirectX11, 12, OpenGL, Vulkan
 
+---
+tags:
+  - [[Coding]]
+  - [[DirectX]]
+  - [[OpenGL]]
+  - [[Graphics]]
+---
 
 ## Debug method
 * GL: orbuculum
