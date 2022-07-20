@@ -17,7 +17,7 @@ tags:
   * 由於是古老的軟體，跨平台能力差
 * [THE NVL Maker](https://www.nvlmaker.net/download.html)
   * 基於吉里吉里打包的介面友善版
-  * 有大量的中文資源
+  * 有大量的中文資源 ex:https://www.nvlmaker.net/manual/tutorial.html
 * [Ren'Py](https://www.renpy.org/latest.html)
   * 擴充性強，基於python，跨平台性也好很多，有持續在更新
   * 官方文件詳盡 https://www.renpy.org/doc/html/
