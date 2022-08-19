@@ -14,14 +14,14 @@ tags:
   * Key signature
 * Pitch and Interval
   * A4 440Hz
-  * Justoni
+  * Just Intonation
   * Equal temperament
 * Solfège
 * Overtone and Harmonic
 * Chord and Inversion
 * Figured Bass
 * Scale and Modes
-* chord progression
+* Chord progression
 * Cadence
 * Circle of fifth
 * Four-part Harmony

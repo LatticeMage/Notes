@@ -21,12 +21,12 @@ Dominant 7th|M3|m3|m3
 diminished 7th|m3|m3|m3
 
 ## Notation
-https://en.wikipedia.org/wiki/Chord_notation
+https://en.wikipedia.org/wiki/Chord_notation  
 https://www.pianochord.org/c.html
 
 Chord | Notation
 -|-
-major triad | X
+major triad | X, XM
 minor triad | Xm, x
 major 7th| XM7, Xmaj7
 minor 7th| Xm7, Xm7
