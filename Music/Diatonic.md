@@ -42,4 +42,4 @@ Also, in roman symbol
 
 
 ## Inversion of Diatonic chords
-$$ III^6_4 , ii°^4_3 , VI^4_3 $$
+<p align="left">$$ III^6_4 , ii°^4_3 , VI^4_3 $$</p>
