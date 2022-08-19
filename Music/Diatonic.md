@@ -5,6 +5,7 @@ tags:
   - [[Music Theory]]
   - [[Chord Notation]]
   - [[NiceChord+ (好和弦+)]]
+  - [[Wen吉他誌]]  
 ---
 
 
@@ -27,6 +28,7 @@ WWHWWWH
 * melodic minor scale
 
 ## Diatonic chords
+[【Wen吉他誌】彈吉他必學的「順階和弦」](https://www.youtube.com/watch?v=bj1dqClKMmE)
 For example, in C major scale, we get:  
 **C - Dm - Em - F - G - Am - B°**  
 These sequence is form diatonic scale, and called diatonic chords.  
