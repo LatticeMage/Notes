@@ -16,6 +16,7 @@ bb == ♭♭
 b = ♭
 ```
 English | Shearer
+-|-
 Cbb | daw
 Cb | de
 C | do
