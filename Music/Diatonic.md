@@ -4,6 +4,7 @@
 tags:
   - [[Music Theory]]
   - [[Chord Notation]]
+  - [[NiceChord+ (好和弦+)]]
 ---
 
 
@@ -27,14 +28,14 @@ WWHWWWH
 
 ## Diatonic chords
 For example, in C major scale, we get:  
-**C - Dm - Em - F - G - Am - B°**
+**C - Dm - Em - F - G - Am - B°**  
 These sequence is form diatonic scale, and called diatonic chords.  
-And we know the root, thus we write roman symbol for any major scale
-**I - ii - iii - IV - V - vi - vii°**
+And we know the root, thus we write roman symbol for any major scale  
+**I - ii - iii - IV - V - vi - vii°**  
 
-For A harmonic minor scale, we get:
+For A harmonic minor scale, we get:  
 **Am - B° - C+ - D° - E - F - G°**  
-Also, in roman symbol
+Also, in roman symbol  
 **i - ii° - III+ - iv° - V - VI - vii°**  
 
 
