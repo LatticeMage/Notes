@@ -10,7 +10,7 @@ tags:
 
 
 ## [Diatonic Scale](https://en.wikipedia.org/wiki/Diatonic_scale)
-WWHWWWH
+[什麼是大調和小調？](https://www.youtube.com/watch?v=T70L-t60j5c)
 * Major scale
   * 1st – Tonic (key note)
   * 2nd – Supertonic
@@ -28,7 +28,7 @@ WWHWWWH
 * melodic minor scale
 
 ## Diatonic chords
-[【Wen吉他誌】彈吉他必學的「順階和弦」](https://www.youtube.com/watch?v=bj1dqClKMmE)
+[【Wen吉他誌】彈吉他必學的「順階和弦」](https://www.youtube.com/watch?v=bj1dqClKMmE)  
 For example, in C major scale, we get:  
 **C - Dm - Em - F - G - Am - B°**  
 These sequence is form diatonic scale, and called diatonic chords.  
