@@ -8,6 +8,7 @@ tags:
 ## Musical note name
 
 ## [Solfège](https://en.wikipedia.org/wiki/Solf%C3%A8ge)
+[十分鐘以內，一次搞懂「唱名」、「首調」與「固定調」！](https://www.youtube.com/watch?v=cvu6A04S80U)
 Shearer system
 ```
 ## == 𝄪
