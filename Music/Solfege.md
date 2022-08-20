@@ -52,3 +52,12 @@ Bb | te
 B | ti
 B# | tai
 B## | –
+
+Then, the common rules
+```
+# -> i
+i# -> ai
+
+b -> e
+eb -> aw
+```

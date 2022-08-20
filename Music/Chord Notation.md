@@ -21,8 +21,8 @@ Dominant 7th|M3|m3|m3
 diminished 7th|m3|m3|m3
 
 ## Notation
-https://en.wikipedia.org/wiki/Chord_notation  
-https://www.pianochord.org/c.html
+ * https://en.wikipedia.org/wiki/Chord_notation
+ * https://www.pianochord.org/c.html
 
 Chord | Notation
 -|-
