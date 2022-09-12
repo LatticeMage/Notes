@@ -6,12 +6,15 @@ tags:
   - [[肉泥Ronnie]]
   - [[美投讲美股]]
   - [[李永乐老师]]
+  - [[老王看世界]]  
 ---
 
 * 推薦影片
   * [我用數學公式破解賭場！玩21點算牌... 贏走300萬！【好棒Bump】【優勢玩家】](https://www.youtube.com/watch?v=deaAMT211_Q)
   * [我來到了賭神張約翰家！想在賭場贏錢不能錯過的一集！【好棒Bump】【優勢玩家】](https://www.youtube.com/watch?v=ee2i1JV29lQ)
 * [看懂了這個，你再去炒股；股市暴跌，為啥散戶炒股票總賠錢？李永樂](https://www.youtube.com/watch?v=g-wCpEZBEdw)
+* 甚麼樣的投資方式適合自己?
+  * 睡覺指標
 * EV
   * 賭博 vs 投資
     * [賭徒輸光原理](https://www.youtube.com/watch?v=AadaEc6pJpw)
@@ -33,9 +36,10 @@ tags:
     * [【解密巴菲特】成功投資秘訣，20%年化報酬！](https://www.youtube.com/watch?v=M2jZTl2cvss)
     * [你 本 不 用 亏 那 么 多 的 ！股市中，如何正确避险？](https://www.youtube.com/watch?v=-dTjRYFEr7s)
 * 經濟學基本
-  * [因子投資的故事](https://www.youtube.com/watch?v=ecmtd3udVV4)
-  * Jeremy Siegel 
   * 市佔率
+    * [因子投資的故事](https://www.youtube.com/watch?v=ecmtd3udVV4)
+  * Jeremy Siegel 
+    * [7分钟了解2020股市崩盘 危机在敲门！【老王】](https://www.youtube.com/watch?v=O-AW5UJJOvk)
 * 傳統經濟 vs 行為經濟
   * 傳統金融 vs 行為金融
   * [【投资】一个颠覆认知的理念，投资股票，比特币，什么能比价格更重要?](https://www.youtube.com/watch?v=nIZO_bAlR0k)
