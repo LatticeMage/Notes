@@ -1,4 +1,9 @@
-# Ch1 Game Classification
+# Game Classification
+
+---
+tags:
+  - [[ACGN]]
+---
 
 ## Table Game
 Tabletops(Tabletop games) can classify into two:

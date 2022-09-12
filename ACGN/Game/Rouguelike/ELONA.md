@@ -3,5 +3,6 @@
 ---
 tags:
   - [[Rouguelike]]
+  - [[ACGN]]
 ---
 

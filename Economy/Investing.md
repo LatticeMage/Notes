@@ -6,27 +6,36 @@ tags:
   - [[肉泥Ronnie]]
   - [[美投讲美股]]
   - [[李永乐老师]]
-  - [[老王看世界]]  
+  - [[老王看世界]]
+  - [[艾倫去哪兒 Allengoaround]]
+  - [[陳寗 NingSelect]]   
 ---
 
-* 推薦影片
+* 投資自己
+  * [小資族怎麼精進自己？最該投資項目的是「興趣」，還能靠它賺錢！](https://youtu.be/pmF7Pa2AuJk)
+  * [別再抱怨薪水只有22k了! 年輕人就是該勇於開創與自己興趣相關的副業! #關於錢的事 Ep. 17](https://youtu.be/wT2AZbBastc)
+* 日常理財
+  * [學會理財讓你3年多存100萬! 理財從日常生活開始做起! #關於錢的事 Ep. 16](https://www.youtube.com/watch?v=zUsoPq8_6WM)
+  * [Costco好市多購物省很大!? 好市多真的有比較便宜嗎? 美國Costco VS 一般商場 #關於錢的事 Ep. 12](https://youtu.be/DEwMnCZhGv0)
+* 投資 vs 賭博(投機)
+  * [投資股票前請先分清楚投資與投機的不同! 技術分析幹話講解! #關於錢的事 EP. 9](https://youtu.be/v1ZoPSxeL4g)
   * [我用數學公式破解賭場！玩21點算牌... 贏走300萬！【好棒Bump】【優勢玩家】](https://www.youtube.com/watch?v=deaAMT211_Q)
   * [我來到了賭神張約翰家！想在賭場贏錢不能錯過的一集！【好棒Bump】【優勢玩家】](https://www.youtube.com/watch?v=ee2i1JV29lQ)
+    * [李永樂老師講賭徒謬誤](https://www.youtube.com/watch?v=yoOocF47BRI)
 * [看懂了這個，你再去炒股；股市暴跌，為啥散戶炒股票總賠錢？李永樂](https://www.youtube.com/watch?v=g-wCpEZBEdw)
 * 甚麼樣的投資方式適合自己?
   * 睡覺指標
 * EV
-  * 賭博 vs 投資
-    * [賭徒輸光原理](https://www.youtube.com/watch?v=AadaEc6pJpw)
-    * [李永樂老師講賭徒謬誤](https://www.youtube.com/watch?v=yoOocF47BRI)
   * 每次投入比率
+    * [賭徒輸光原理](https://www.youtube.com/watch?v=AadaEc6pJpw)
     * [凱利公式是啥？按這個炒股能成巴菲特？如何分配手裏的錢進行最優投資，李永樂](https://www.youtube.com/watch?v=v2JGTi5lhY4)
   * 投入週期
     * MWRR/TWRR
       * [投資ETF的報酬率比想像中更低！](https://www.youtube.com/watch?v=RJOtzU5_wus)
     * [定期定額注定賠錢，股市高點一次性投入進場｜實證研究｜定期定額vs單筆投入](https://www.youtube.com/watch?v=uTXwhTTIuMw)
-    * 定期投入
-  * 分散風險
+    * 定期投入 - 穩定現金流 - 睡覺指標
+  * 資產配置
+    * [【投资】一个颠覆认知的理念，投资股票，比特币，什么能比价格更重要?](https://www.youtube.com/watch?v=nIZO_bAlR0k)
     * [資產配置系列1-全天候投資策略](https://www.youtube.com/watch?v=a2OYIFC5WuY)
     * [資產配置系列2-被動投資的股票投資組合](https://www.youtube.com/watch?v=nkUAfBQhGQA)
     * [資產配置系列3-債券、REITs資產配置](https://www.youtube.com/watch?v=tWivlBN4CVI)
@@ -40,12 +49,9 @@ tags:
     * [因子投資的故事](https://www.youtube.com/watch?v=ecmtd3udVV4)
   * Jeremy Siegel 
     * [7分钟了解2020股市崩盘 危机在敲门！【老王】](https://www.youtube.com/watch?v=O-AW5UJJOvk)
-* 傳統經濟 vs 行為經濟
-  * 傳統金融 vs 行為金融
-  * [【投资】一个颠覆认知的理念，投资股票，比特币，什么能比价格更重要?](https://www.youtube.com/watch?v=nIZO_bAlR0k)
-* [推薦youtuber](https://github.com/QuantumNecro/Knowledge/blob/main/Youtuber/Economy%20YT.md)
-* 書單
-  * 一般推薦
+* 推薦
+  * [youtuber](https://github.com/QuantumNecro/Knowledge/blob/main/Youtuber/Economy%20YT.md)
+  * 一般推薦書單
     * 窮查理的普通常識
     * 投資金律
     * 耶魯最受歡迎的金融通識課
@@ -56,10 +62,15 @@ tags:
 * 其他主題 
   * [因子投資 vs 全市場指數｜全部ALL IN 市值型ETF不好嗎？](https://www.youtube.com/watch?v=YCEdSco0EXY)
   * [【熊市致富】股市大跌如何累積資產？報酬順序風險](https://www.youtube.com/watch?v=n17xjMg5c2U)
-
+  * 傳統經濟 vs 行為經濟
 
 ## 技術分析www
 * 技術線
+  * 支撐 阻力
+  * M頭 W底
+  * 盤整
+  * 假突破 真突破
+  * 亞當圖
 * 基本面
   * 財報
     * 資產負債表
