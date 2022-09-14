@@ -69,7 +69,7 @@ tags:
 * 其他主題 
   * [因子投資 vs 全市場指數｜全部ALL IN 市值型ETF不好嗎？](https://www.youtube.com/watch?v=YCEdSco0EXY)
   * [【熊市致富】股市大跌如何累積資產？報酬順序風險](https://www.youtube.com/watch?v=n17xjMg5c2U)
-  * 傳統經濟 vs [行為經濟](../)
+  * 傳統經濟 vs [行為經濟](./Behavioral Finance.md)
 
 ## 技術分析www
 * 技術線
