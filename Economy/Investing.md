@@ -44,6 +44,7 @@ tags:
   * 資產配置
     * [【投资】一个颠覆认知的理念，投资股票，比特币，什么能比价格更重要?](https://www.youtube.com/watch?v=nIZO_bAlR0k)
     * [資產配置系列1-全天候投資策略](https://www.youtube.com/watch?v=a2OYIFC5WuY)
+    * [ETF資產配置年賺27%，再平衡與動態相關性｜效率前緣：同時提高報酬和降低風險](https://www.youtube.com/watch?v=ayGJmKcLBlo)
     * [資產配置系列2-被動投資的股票投資組合](https://www.youtube.com/watch?v=nkUAfBQhGQA)
     * [資產配置系列3-債券、REITs資產配置](https://www.youtube.com/watch?v=tWivlBN4CVI)
 * 風險&槓桿
@@ -64,12 +65,11 @@ tags:
     * 耶魯最受歡迎的金融通識課
   * 個人推薦
     * 高勝算決策
-    * 不當行為
     * 心態致勝
 * 其他主題 
   * [因子投資 vs 全市場指數｜全部ALL IN 市值型ETF不好嗎？](https://www.youtube.com/watch?v=YCEdSco0EXY)
   * [【熊市致富】股市大跌如何累積資產？報酬順序風險](https://www.youtube.com/watch?v=n17xjMg5c2U)
-  * 傳統經濟 vs [行為經濟](Behavioral Finance.md)
+  * 傳統經濟 vs 行為經濟
 
 ## 技術分析www
 * 技術線

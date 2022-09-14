@@ -3,7 +3,7 @@
 ---
 tags:
   - [[Galgame]]
-  - [[Rouguelike]]
+  - [[AVG]]
 ---
 
 
