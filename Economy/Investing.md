@@ -58,7 +58,7 @@ tags:
   * 市佔率
     * [因子投資的故事](https://www.youtube.com/watch?v=ecmtd3udVV4)
   * Jeremy Siegel 
-  * [7分钟了解2020股市崩盘 危机在敲门！【老王】](https://www.youtube.com/watch?v=O-AW5UJJOvk)
+  * [隐藏在通胀(CPI)背后的谎言【老王】](https://www.youtube.com/watch?v=CdO__9BXSAw)
 * 推薦
   * [youtuber](https://github.com/QuantumNecro/Knowledge/blob/main/Youtuber/Economy%20YT.md)
   * 一般推薦書單
