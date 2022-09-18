@@ -12,6 +12,7 @@ tags:
   - [[陳寗 NingSelect]]   
   - [[雷瑪莉歐]]
   - [[小六SixPoker]]
+  - [[好棒Bump]]
 ---
 
 * 投資自己
