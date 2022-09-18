@@ -33,6 +33,7 @@ tags:
 * EV
   * 什麼是波動
     * [德州撲克到底是技術還是運氣？技術運氣比重又分別是幾比幾呢？來聽聽前職業德州撲克玩家怎麼說！| 小六德州撲克](https://www.youtube.com/watch?v=2iwgZC5mHuk)
+    * [#想到就拍2｜聊聊德州扑克的下风期，你真的是在下风期吗？我是怎么处理的](https://www.youtube.com/watch?v=oJB0tkq_AUA)
   * 每次投入比率
     * [賭徒輸光原理](https://www.youtube.com/watch?v=AadaEc6pJpw)
     * [凱利公式是啥？按這個炒股能成巴菲特？如何分配手裏的錢進行最優投資，李永樂](https://www.youtube.com/watch?v=v2JGTi5lhY4)
