@@ -5,6 +5,7 @@ tags:
   - [[Ryan Wu]]
   - [[窮奢極欲]]
   - [[Investing]]
+  - [[即凉Lion]]
 ---
 
 ## References
@@ -12,13 +13,16 @@ tags:
 
 [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://www.youtube.com/watch?v=c7T41eCmmVk)
 
+[精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
+
 ## 書單
   * 高勝算決策
   * 心態致勝
 
 ## Summary
-* 數據化
-  * 紀錄&分析
+* 檢討
+  * 數據化紀錄&分析
+  * 覆盤
 * 將正確決策培養成直覺
   * 以投入能量作為抽象化思考
   * 成長型思維

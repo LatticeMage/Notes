@@ -64,7 +64,6 @@ tags:
 * [Google員工都用什麼提升效率? 一天只要工作4小時 ! 分享我在Google工作學到的菁英工作法！【工程師#4】](https://www.youtube.com/watch?v=_OXKszvJE00)
 
 ### Other Tools 
-
 * 套餐
   * Atlassian
     * Confluence
