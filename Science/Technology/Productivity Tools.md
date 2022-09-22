@@ -14,9 +14,8 @@ tags:
       * Sublime Text
       * Github
       * Obsidian
-      * hackmd.io
   * 心智圖
-    * Markmap(hackmd.io)
+    * Markmap([HackMD](https://hackmd.io/))
   * 任務管理
     * Google Calendar
       * Read other account
@@ -34,9 +33,9 @@ tags:
   * DAW
     * Studio one 4
   * Video editor
-    * ffmpeg
+    * (原則上不剪片)
     * OpenShot
-  * Drawing 
+  * Drawing
     * Clip Studio Paint
   * SVG 
     * Inkscape
@@ -48,8 +47,10 @@ tags:
   * Microsoft PowerPoint 2007
   * Microsoft Excel 2007
 * Programming
+  * Latex([Overleaf](https://www.overleaf.com/))
+  * FFmpeg
   * Windows
-    * VS2022
+    * Visual Studio
     * Unity
   * Linux  
     * Virtualbox
