@@ -61,20 +61,18 @@ tags:
   * [隐藏在通胀(CPI)背后的谎言【老王】](https://www.youtube.com/watch?v=CdO__9BXSAw)
 * 推薦
   * [youtuber](https://github.com/QuantumNecro/Knowledge/blob/main/Youtuber/Economy%20YT.md)
-  * 一般推薦書單
-    * 窮查理的普通常識
-    * 投資金律
-    * 耶魯最受歡迎的金融通識課
-  * 個人推薦
-    * 高勝算決策
-    * 心態致勝
+  * 窮查理的普通常識
+  * 投資金律
+  * 耶魯最受歡迎的金融通識課
+
+
+## 其他補充
+* 新手
+  * 被動主動 七三開局
 * 其他主題 
   * [因子投資 vs 全市場指數｜全部ALL IN 市值型ETF不好嗎？](https://www.youtube.com/watch?v=YCEdSco0EXY)
   * [【熊市致富】股市大跌如何累積資產？報酬順序風險](https://www.youtube.com/watch?v=n17xjMg5c2U)
   * 傳統經濟 vs [行為經濟](./Behavioral%20Finance.md)
-
-## 其他補充
-被動主動 七三開局
 
 ## 技術分析www
 * 技術線

@@ -24,15 +24,6 @@ tags:
       * Grid View -> sorted with Due Date
       * Grid View -> sorted with Priority
       * Kanban View -> sorted with Category
-* Programming
-  * Coding
-    * VS2022
-  * Game Engine
-    * Unity
-  * Linux
-    * Mint
-    * Virtualbox
-    * VSCode
 * Multimedia
   * 語音轉文字
     * Google即時轉錄
@@ -49,12 +40,30 @@ tags:
     * Clip Studio Paint
   * SVG 
     * Inkscape
+  * Browsers
+    * Firefox
+    * Chrome
+* 文檔
+  * Microsoft Word 2007
+  * Microsoft PowerPoint 2007
+  * Microsoft Excel 2007
+* Programming
+  * Windows
+    * VS2022
+    * Unity
+  * Linux  
+    * Virtualbox
+    * Mint
+    * VSCode
+
 
 
 ## References:
 * [这12个工具，帮你提高解决问题的效率](https://www.youtube.com/watch?v=Zr4JU5OPIwc)
 * [【亦】学习神器！正经人谁用飞书办公啊](https://www.youtube.com/watch?v=mXkzYxoo2Z8)
 * [Google員工都用什麼提升效率? 一天只要工作4小時 ! 分享我在Google工作學到的菁英工作法！【工程師#4】](https://www.youtube.com/watch?v=_OXKszvJE00)
+
+### Other Tools 
 
 * 套餐
   * Atlassian
