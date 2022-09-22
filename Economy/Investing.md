@@ -25,6 +25,7 @@ tags:
   * [投資股票前請先分清楚投資與投機的不同! 技術分析幹話講解! #關於錢的事 EP. 9](https://youtu.be/v1ZoPSxeL4g)
   * [我用數學公式破解賭場！玩21點算牌... 贏走300萬！【好棒Bump】【優勢玩家】](https://www.youtube.com/watch?v=deaAMT211_Q)
   * [我來到了賭神張約翰家！想在賭場贏錢不能錯過的一集！【好棒Bump】【優勢玩家】](https://www.youtube.com/watch?v=ee2i1JV29lQ)
+  * [【小六德州撲克】27歲賺進上千萬台幣！？人生的潮起與潮落！該如何克服下風期以及面對上風期的心態？我的德州撲克回憶錄（完）](https://www.youtube.com/watch?v=I6XTMluHrR4)
   * 賭徒謬誤
     * [李永樂老師講賭徒謬誤](https://www.youtube.com/watch?v=yoOocF47BRI)
     * [【玻璃心慎入】總是被超車、撞牌！？為什麼線上撲克這麼難贏錢？？揭開平台「發牌系統作弊」的真相！！| 小六德州撲克](https://www.youtube.com/watch?v=MjMB-yR7psU&list=PLDD0Zm1dzAcggwnDr4Ell2DpQD1Ck_8e5&index=9)
