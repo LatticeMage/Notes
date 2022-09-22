@@ -6,6 +6,8 @@ tags:
   - [[窮奢極欲]]
   - [[Investing]]
   - [[即凉Lion]]
+  - [[老石谈芯]]
+  - [[SBD Taiwan 邱個]]
 ---
 
 ## References
@@ -14,6 +16,14 @@ tags:
 [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://www.youtube.com/watch?v=c7T41eCmmVk)
 
 [精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
+
+[2021年很难，但我至少学到了这十件事](https://www.youtube.com/watch?v=763kY8W9FAQ)
+
+[這十個思維方式如何改變我的人生（2020）](https://www.youtube.com/watch?v=L0_Fh296Qx0)
+
+不要高估一天所能達到的成就，也不要低估一年所能累積的效果
+
+
 
 ## 書單
   * 高勝算決策
