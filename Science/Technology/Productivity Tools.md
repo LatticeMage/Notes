@@ -20,6 +20,7 @@ tags:
     * Google Calendar
       * Read other account
     * Airtable
+      * csv 
       * Grid View -> sorted with Due Date
       * Grid View -> sorted with Priority
       * Kanban View -> sorted with Category
