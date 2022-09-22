@@ -2,7 +2,7 @@
 
 ---
 tags:
-  - [[ACGN]]
+  - [[Game]]
 ---
 
 ## Table Game

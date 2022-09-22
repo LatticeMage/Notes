@@ -2,6 +2,7 @@
 
 ---
 tags:
+  - [[Technology]]
   - [[林亦LYi]]
   - [[即凉Lion]]
   - [[老石谈芯]]

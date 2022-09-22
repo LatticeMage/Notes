@@ -2,7 +2,7 @@
 
 ---
 tags:
-  - [[coding]]
+  - [[Programming]]
   - [[Music Theory]]
 ---
 

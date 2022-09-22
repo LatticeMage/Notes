@@ -1,0 +1,6 @@
+# Galgame
+
+---
+tags:
+  - [[AVG]]
+---

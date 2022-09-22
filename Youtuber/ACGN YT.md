@@ -2,6 +2,7 @@
 
 ---
 tags:
+  - [[ACGN]]
   - [[Youtuber]]
 ---
 

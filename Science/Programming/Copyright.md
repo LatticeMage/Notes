@@ -2,7 +2,7 @@
 
 ---
 tags:
-  - [[Coding]]
+  - [[Programming]]
   - [[Law]]
   - [[Lisence]]
 ---

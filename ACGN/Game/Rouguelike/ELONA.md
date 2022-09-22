@@ -3,7 +3,6 @@
 ---
 tags:
   - [[Rouguelike]]
-  - [[ACGN]]
   - [[Open World]]
 ---
 
