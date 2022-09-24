@@ -16,7 +16,7 @@ tags:
   * [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://www.youtube.com/watch?v=c7T41eCmmVk)
 * 即凉Lion 
   * [精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
-  * [2022新年计划｜手把手教你年终复盘和做计划](https://www.youtube.com/watch?v=l544LDx_Xv4&t=6s)
+  * [深度复盘｜如何利用数据分析思维进行复盘？](https://www.youtube.com/watch?v=JmNNrJdUoKc)
 * 老石谈芯
   * [2021年很难，但我至少学到了这十件事](https://www.youtube.com/watch?v=763kY8W9FAQ)
   * [這十個思維方式如何改變我的人生（2020）](https://www.youtube.com/watch?v=L0_Fh296Qx0)
