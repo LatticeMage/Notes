@@ -3,6 +3,7 @@
 ---
 tags:
   - [[Economy]]
+  - [[Mindset]]
   - [[清流君]]
   - [[肉泥Ronnie]]
   - [[美投讲美股]]

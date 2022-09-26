@@ -3,6 +3,7 @@
 ---
 tags:
   - [[Ryan Wu]]
+  - [[Mindset]]
   - [[窮奢極欲]]
   - [[Investing]]
   - [[即凉Lion]]
