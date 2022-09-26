@@ -22,8 +22,8 @@ tags:
   * [經濟學家40多年的研究：「名校畢業的學生，將來收入一定較普通學校高嗎？」](https://www.youtube.com/watch?v=m-uZYwOCJdY)
   * [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://www.youtube.com/watch?v=c7T41eCmmVk)
 * 即凉Lion 
-  * [精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
   * [深度复盘｜如何利用数据分析思维进行复盘？](https://www.youtube.com/watch?v=JmNNrJdUoKc)
+  * [精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
 * 老石谈芯
   * [2021年很难，但我至少学到了这十件事](https://www.youtube.com/watch?v=763kY8W9FAQ)
   * [這十個思維方式如何改變我的人生（2020）](https://www.youtube.com/watch?v=L0_Fh296Qx0)
@@ -44,4 +44,5 @@ tags:
   * 將行為跟生產掛勾
 * 額外方式?
   * 挑勝率高的局
+    * ex: 80/20法則(Ryan Wu)
   * 追流行
