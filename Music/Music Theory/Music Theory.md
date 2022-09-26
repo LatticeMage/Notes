@@ -2,7 +2,7 @@
 
 ---
 tags:
-  - [[Music Theory]]
+  - [[Music]]
   - [[Adam Neely]]
 ---
 
