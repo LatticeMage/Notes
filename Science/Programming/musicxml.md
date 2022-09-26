@@ -1,4 +1,4 @@
-# musicxml
+# MusicXML
 
 ---
 tags:
