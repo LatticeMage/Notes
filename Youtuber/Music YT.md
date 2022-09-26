@@ -3,6 +3,7 @@
 ---
 tags:
   - [[Youtuber]]
+  - [[Music]]
 ---
 
 ## Music Theroy
