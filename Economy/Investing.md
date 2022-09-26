@@ -63,9 +63,9 @@ tags:
   * [隐藏在通胀(CPI)背后的谎言【老王】](https://www.youtube.com/watch?v=CdO__9BXSAw)
 * 推薦
   * [youtuber](https://github.com/QuantumNecro/Knowledge/blob/main/Youtuber/Economy%20YT.md)
-  * 窮查理的普通常識
-  * 投資金律
-  * 耶魯最受歡迎的金融通識課
+  * 《窮查理的普通常識》
+  * 《投資金律》
+  * 《耶魯最受歡迎的金融通識課》
 
 
 ## 其他補充

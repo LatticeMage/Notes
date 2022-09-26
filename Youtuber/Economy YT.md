@@ -3,6 +3,7 @@
 ---
 tags:
   - [[Youtuber]]
+  - [[Economy]]
 ---
 
 ## Economics

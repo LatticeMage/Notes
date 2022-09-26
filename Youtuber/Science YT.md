@@ -3,6 +3,7 @@
 ---
 tags:
   - [[Youtuber]]
+  - [[Science]]
 ---
 
 ## Philosophy
