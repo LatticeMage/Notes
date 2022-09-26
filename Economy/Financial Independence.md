@@ -24,7 +24,7 @@ tags:
   * 狗屁工作
     * [世上40%工作根本沒意義！各行各業內幕大爆料！你的工作是狗屁嗎？書來面對EP21《狗屁工作》](https://www.youtube.com/watch?v=bQUEpQ09pAc)
     * [世界上有40%工作毫無意義，明明科技已進步人類工時卻沒有減少](https://www.youtube.com/watch?v=U2WsLV8cE3g)
-  * 計畫性汰舊
+  * Planned Obsolescence 計畫性汰舊
     * [商品會耗損是資本家的陰媒？若所有產品都能用幾十年，世界經濟會嚴重滯後](https://youtu.be/tLZsADsTg48)
     * [為何一定要經濟成長？你聽過「棄成長」嗎？全球貧富差距、生態災難的新解方，一個實際可行的方案，創造生態共榮的新經濟體系 | 書來面對EP30](https://youtu.be/eWbqwcj9ALo)
 * 多元收入
@@ -34,3 +34,7 @@ tags:
     * 深度工作力
     * 番茄鐘
   * 緩衝
+* Better Leaf 好葉
+  * [F.I.R.E 是如何讓你越存越窮的？小心誤入陷阱，揭秘財務自由者不告訴你的3大步驟 | F.I.R.E 財務自由，提早退休【好葉】](https://youtu.be/bsjN5Mx3HAM)
+  * [9個結帳前 我们需要思考的金钱問題 | FIRE 財務自由【好葉】](https://youtu.be/uZUmJlD7-HM)
+  * [3個善用正職工作的方法 | FIRE 財務自由【好葉】](https://youtu.be/lGQSWdb8RGk)

@@ -1,10 +1,15 @@
-# CH00 Overview
+# Overview
 
 ---
 tags:
   - [[Music Theory]]
+  - [[Adam Neely]]
 ---
 
+## About Pitch, Chords, Rhythms
+[New Horizons in Music: Polyrhythms | Loop](https://www.youtube.com/watch?v=JiNKlhspdKg)
+
+## Topics
 * Musescore
   * clef
 * rhythm notation
