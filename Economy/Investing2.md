@@ -40,12 +40,12 @@ tags:
   * 數據化紀錄&分析
   * 覆盤
 * 將正確決策培養成直覺
-  * 以投入能量作為抽象化思考
   * 成長型思維
-* 優化生產流程
-  * [生產力工具](../Science/Technology/Productivity%20Tools.md)
   * 將行為跟生產掛勾
-* 額外方式?
+  * 以投入能量作為抽象化思考
+* 加分方式
+  * 追流行
   * 挑勝率高的局
     * ex: 80/20法則(Ryan Wu)
-  * 追流行
+* 優化生產流程
+  * [生產力工具](../Science/Technology/Productivity%20Tools.md)
