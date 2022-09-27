@@ -36,7 +36,7 @@ tags:
   * DAW
     * Studio one 4
   * Video editor
-    * (原則上不剪片)
+    * FFmpeg(原則上不人工剪片)
     * OpenShot
   * Drawing
     * Clip Studio Paint
@@ -89,8 +89,8 @@ tags:
     * google calendar
     * google doc, slide, sheet......
 * 團隊管理
-  * slack
-* 專案管理
+  * Slack
+* 專案進度
   * Clickup
   * Trello
   * Asana
@@ -101,3 +101,4 @@ tags:
   * Evernote
 * 心智圖
   * Xmind
+  * Whimsical
