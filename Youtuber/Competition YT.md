@@ -2,7 +2,7 @@
 
 ---
 tags:
-  - [[Youtuber]]
+  - [[Competition]]
 ---
 
 ## Fighting

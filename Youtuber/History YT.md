@@ -2,7 +2,7 @@
 
 ---
 tags:
-  - [[Youtuber]]
+  - [[History]]
 ---
 
 ## 歷史

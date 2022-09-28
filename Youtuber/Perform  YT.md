@@ -2,7 +2,9 @@
 
 ---
 tags:
-  - [[Music YT]]
+  - [[Perform]]
+  - [[Instrument]]
+  - [[Metal]]
 ---
 
 ## Guitar
@@ -13,7 +15,7 @@ tags:
   - [[Wen吉他誌]]
 ---
 
-## Instrumental
+## Instrument
 ---
 tags:
   - [[董舜文的頻道]]
