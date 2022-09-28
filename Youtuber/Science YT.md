@@ -41,26 +41,9 @@ tags:
   - [[老石谈芯]]
 ---
 
-## Psychology
----
-tags:
-  - [[維思維WeisWay]]
----
-
 ## Medicine
 ---
 tags:
   - [[黃瑽寧醫師健康講堂]]
   - [[蒼藍鴿的醫學天地]]
----
-
-
-## Strength
----
-tags:
-  - [[白天手術房晚上健身房]]
-  - [[SBD Taiwan 邱個]]
-  - [[健人蓋伊]]
-  - [[CYFIT兆佑]]
-  - [[Tao]]
 ---

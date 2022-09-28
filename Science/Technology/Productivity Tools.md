@@ -50,8 +50,7 @@ tags:
   * Microsoft PowerPoint 2007
   * Microsoft Excel 2007
 * Programming
-  * Latex([Overleaf](https://www.overleaf.com/))
-  * FFmpeg
+  * [Overleaf](https://www.overleaf.com/)(Latex)
   * Windows
     * Visual Studio
     * Unity

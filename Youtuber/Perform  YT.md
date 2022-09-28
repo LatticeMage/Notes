@@ -1,25 +1,21 @@
-# Music YT
+# Perform  YT
 
 ---
 tags:
-  - [[Youtuber]]
-  - [[Music]]
+  - [[Music YT]]
 ---
 
-## Music Theroy
+## Guitar
 ---
 tags:
-  - [[NiceChord+ (好和弦+)]]
-  - [[Adam Neely]]
-  - [[理科生讲音乐]]
-  - [[Jacob Collier]]
+  - [[成田工作室]]
+  - [[Bai Tone白懂]]
+  - [[Wen吉他誌]]
 ---
 
 ## Instrumental
 ---
 tags:
-  - [[Bai Tone白懂]]
-  - [[Wen吉他誌]]
   - [[董舜文的頻道]]
   - [[Animenz Piano Sheets]]
 ---
