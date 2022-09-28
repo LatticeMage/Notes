@@ -9,7 +9,7 @@ tags:
   - [[CYFIT兆佑]]
 ---
 
-
+* 相信自己，每個人都是偏離平均值的
 * 藝術是生活的一部分
 * [一輩子的事，可以輕鬆面對](https://www.youtube.com/watch?v=6aPiiplJd5k)
 * [电吉他：手速不够？速弹提速的秘密！](https://www.youtube.com/watch?v=nE7ydXA63pA)
