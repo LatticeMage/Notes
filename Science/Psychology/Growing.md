@@ -11,19 +11,23 @@ tags:
   - [[檸檬卷 Janet]]
   - [[Rick Beato]]
   - [[啾啾鞋]]
+  - [[SBD Taiwan 邱個]]
 ---
 
 ## 學習心態
 * 藝術是生活的一部分
-  * ★★★☆☆ [一輩子的事，可以輕鬆面對](https://www.youtube.com/watch?v=6aPiiplJd5k)
+  * ★★★★★ [一輩子的事，可以輕鬆面對](https://www.youtube.com/watch?v=6aPiiplJd5k)
 * 相信自己，每個人都是偏離平均值的
   * 男生女生平均一個睪丸
-  * ★★☆☆☆ [电吉他：手速不够？速弹提速的秘密！](https://www.youtube.com/watch?v=nE7ydXA63pA)
+* 程度 & 挑戰
+  * Krenz, 抖抖村
+    * 目標過於遠大
+  * ★★★★★ [电吉他：手速不够？速弹提速的秘密！](https://www.youtube.com/watch?v=nE7ydXA63pA)
     * 在舒服的狀態
     * 筷子哲學
     * 舉例：吃辣
-* Krenz, 抖抖村
-  * 程度 & 挑戰，目標過於遠大
+  * SBD Taiwan 邱個
+    * 6RM練到8RM甚至12RM再加重量
 * ★★★★☆ 《原子習慣》
   * 失望之谷
   * ![](https://i.imgur.com/ioyKhH9.png)

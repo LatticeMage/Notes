@@ -78,6 +78,7 @@ tags:
     * Jira
     * Bitbucket
   * Notion
+  * 飛書
   * MS
     * Teams
     * Planner
