@@ -2,8 +2,8 @@
 
 ---
 tags:
-  - [[Mindset]]
   - [[Economy]]
+  - [[Mindset]]
   - [[窮奢極欲]]
   - [[超級歪 SuperY]]
   - [[MoneyXYZ]]
@@ -17,7 +17,7 @@ tags:
   * ★★★★★ [追求财务自由五年, 我想明白了这几个道理](https://youtu.be/8yzqumXb3QA)  
 * FIRE  
   * ★★★★☆ [FIRE運動席捲了全球，提早退休的祕密法則！](https://youtu.be/U2WsLV8cE3g)
-  * ★★★★☆ ["躺平"是实现财务自由的第一步](https://youtu.be/g8VgzgnskI0)
+  * ★★★★★ ["躺平"是实现财务自由的第一步](https://youtu.be/g8VgzgnskI0)
 * 資本主義矛盾
   * ★★★★★ [同消费主义脱钩是实现财务自由最重要的一步-FIRE运动的核心基础 ](https://youtu.be/Nz4ymeHDy3M)
   * 狗屁工作

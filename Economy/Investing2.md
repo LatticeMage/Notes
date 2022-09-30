@@ -2,6 +2,7 @@
 
 ---
 tags:
+  - [[Economy]]
   - [[Ryan Wu]]
   - [[Mindset]]
   - [[窮奢極欲]]

@@ -5,6 +5,7 @@ tags:
   - [[Economy]]
   - [[Men's Game 玩物誌]]
   - [[Ryan Wu]]
+  - [[Krenz's Artwork]]
 ---
 
 ## 閉圈循環
@@ -15,7 +16,7 @@ tags:
 ## 方法
 * 書單
   * ★★★★★ 《從0到1》（Zero to One）
-    * [[閒聊] 《從0到1》 Zero to One 應用在現代斜槓一人公司一人獲利世代](https://youtu.be/BjzXWoOEdpU)
+    * ★★★☆☆ [[閒聊] 《從0到1》 Zero to One 應用在現代斜槓一人公司一人獲利世代](https://youtu.be/BjzXWoOEdpU)
   * ★★★★★ 《飛輪效應：A+企管大師7步驟打造成功飛輪，帶你從優秀邁向卓越》
   * ★★★★★ 《獲利的魔鬼，就躲在細節裡：不拚業績，我們如何讓獲利翻倍？》
 
