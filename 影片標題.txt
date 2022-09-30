@@ -1,5 +1,5 @@
 [Lecture] 上課與練習的進度
-Growing.md
+    Growing.md
 [閒聊] 期望值這件事 03 - 財務自由???
     Financial Independence.md
 [閒聊] 期望值這件事 04 - 飛輪效應
