@@ -4,8 +4,9 @@
 tags:
   - [[Economy]]
   - [[Men's Game 玩物誌]]
-  - [[Ryan Wu]]
   - [[Krenz's Artwork]]
+  - [[Ryan Wu]]
+  - [[陳寗 NingSelect]]
 ---
 
 ## 閉圈循環
@@ -23,3 +24,11 @@ tags:
 ## 一人公司
   * ★★★☆☆ [如何賺更多錢2: 飛輪效應發大財 3 of 13](https://youtu.be/ldD2ws_hIVQ)
   * ★★☆☆☆ [錢愈用愈多的方法的4個方法 (送你書) (花掉的錢都會自己流回來)](https://youtu.be/y7dc5z1RCLk)
+
+
+
+## 其他補充
+  * 經濟學基本
+    * 生產者理論 TC=FC+VC
+    * 不剪片
+  * 
