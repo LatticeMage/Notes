@@ -2,5 +2,5 @@
 
 ---
 tags:
-  - [[Science]]
+  - [[Biology]]
 ---

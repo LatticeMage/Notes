@@ -28,12 +28,12 @@ tags:
     * 筷子哲學
     * 舉例：吃辣
   * SBD Taiwan 邱個
-    * 6RM練到8RM甚至12RM再加重量
+    * 6RM甚至8RM練到12RM再加重量
 * ★★★★☆ 《原子習慣》
   * 失望之谷
   * ![](https://i.imgur.com/ioyKhH9.png)
-* [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
-  * ★★★★☆ 中文版：[為什麼成為一名工程師這麼難 —— 從程式新手到準工程師的必經之路](https://www.inside.com.tw/article/4480-why-learning-to-code-is-so-damn-hard)
+* ★★★★☆ [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
+  * 中文版：[為什麼成為一名工程師這麼難 —— 從程式新手到準工程師的必經之路](https://www.inside.com.tw/article/4480-why-learning-to-code-is-so-damn-hard)
 
 ## 高效練習
 * 記錄一切+事後分析
