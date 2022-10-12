@@ -77,8 +77,8 @@ tags:
     * Confluence
     * Jira
     * Bitbucket
+    * Trello
   * Notion
-  * 飛書
   * MS
     * Teams
     * Planner
@@ -92,7 +92,6 @@ tags:
   * Slack
 * 專案進度
   * Clickup
-  * Trello
   * Asana
 * 文件管理
   * Roam
