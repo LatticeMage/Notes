@@ -19,3 +19,44 @@ tags:
 ## 遊戲企劃類型
 
 ### 助理製作 
+
+營運營運Game Operator
+助理製作人(Associate Producer (AP) )
+執行製作人(Executive producer)
+系統企劃
+數值企劃
+關卡企劃(Level Design)
+QA（Quality Assurance）
+遊戲專案PM（Project Manager）
+遊戲腳本Game Writer
+
+
+目前主流生產遊戲流程
+
+營運企劃設計問卷，做市場調查，設定TA
+
+尋找市面上優秀的作品，遊玩之後寫分析報告
+
+同時也要分析遊戲核心玩法、核心機制
+
+團隊做天馬行空的發想
+
+提案 將發想跟TA結合 
+
+將優秀的遊戲機制和核心玩法跟提案結合
+
+做出Prototype
+
+遊玩 改進prototype
+
+好玩的遊戲在prototype時期就會好玩
+prototype不好玩的遊戲，基本上進入產品階段也不好玩
+
+不好玩要捨棄，從頭開始設計一款新遊戲
+
+美術
+程式優化
+手感優化
+
+QA給完整的遊戲改善建議
+
