@@ -1,15 +1,5 @@
 # Game Designer
 
----
-tags:
-  - [[ACGN]]
-  - [[綺麗 Game Thinkers]]
-  - [[Gamker攻壳官方频道]]
-  - [[Extra Credits]]
-  - [[摩訶聖 遊戲編劇聊遊戲]]
-  - [[]]
----
-
 遊戲設計師是早年的稱呼，現在專業分工下加上吸收了商業化領域的知識，近年稱為企劃，而對岸稱為策劃。
 英文也有差異，歐美是稱為 Game Designer，日本則稱為 Game Planner，所以有些人誤以為企劃只是管理而非設計。
 
@@ -109,3 +99,14 @@ Roguelike類、卡牌類遊戲，很需要強大的數值企劃去做遊戲平�
 可能稱為 Game Director, Lead Game Designer  
 當團隊中有多個企劃負責不同子項目時，需要一個可以統合所有企劃的上位  
 當然最好企劃總監本身就有不同的企劃經歷
+
+
+---
+tags:
+  - [[ACGN]]
+  - [[綺麗 Game Thinkers]]
+  - [[Gamker攻壳官方频道]]
+  - [[Extra Credits]]
+  - [[摩訶聖 遊戲編劇聊遊戲]]
+  - [[]]
+---
