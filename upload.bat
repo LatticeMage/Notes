@@ -6,3 +6,5 @@ git pull
 git add .
 git commit -m "upload"
 git push
+
+../QuantumNecro.github.io/upload.ps1

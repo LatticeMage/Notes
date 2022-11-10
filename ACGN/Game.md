@@ -10,13 +10,13 @@ tags:
 
 ## Game Design
 
-[Game Designer.md](./Game%20Designer.md)
+[Game Designer](./Game%20Designer/)
 
-[Game Designing.md](./Game%20Designing.md)
+[Game Designing](./Game%20Designing/)
 
 
 ## Games
-* [Game Classification.md](./Game%20Classification.md)
+* [Game Classification](./Game%20Classification/)
   * [AVG](./AVG/)
   * [Rouguelike](./Rouguelike/)
   * [RPG](./RPG/)

@@ -1,6 +1,7 @@
 # ACGN
 
-[Anime](./Anime/)
-[Comic](./Comic/)
-[Game](./Game/)
-[Novel](./Novel/)
+[Anime](./Anime/)  
+[Comic](./Comic/)  
+[Galgame](./Galgame/)  
+[Game](./Game/)  
+[Novel](./Novel/)  
