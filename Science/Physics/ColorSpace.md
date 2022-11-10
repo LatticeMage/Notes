@@ -1,13 +1,5 @@
 # Color Space
 
----
-tags:
-  - [[Color]]
-  - [[Biology]]
-  - [[Physics]]
-  - [[眼见为识]]
----
-
 ## Mechanism
 
 ### visible spectrum
@@ -70,3 +62,12 @@ The most important is that it is also CIE, human eye sensitive.
 
 <img src="https://i.imgur.com/sTDteRp.jpg" />
 <img src="https://sensing.konicaminolta.asia/wp-content/uploads/2018/09/Apple%20ab%20Chart.jpg" />
+
+
+---
+tags:
+  - [[Color]]
+  - [[Biology]]
+  - [[Physics]]
+  - [[眼见为识]]
+---

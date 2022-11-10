@@ -1,12 +1,5 @@
 # ルナティックドーン
 
----
-tags:
-  - [[Rouguelike]]
-  - [[老孫聊遊戲]]
-  - [[Open World]]
----
-
 
 * [主角一死存檔就損毀的遊戲，能否冒險到99歲？](https://www.youtube.com/watch?v=obsC6uXQ7PU)
 * [開局打不過蝙蝠、挖礦半小時才推進劇情！19年前奇葩作品，竟是“開放世界”遊戲？](https://www.youtube.com/watch?v=t6S6iQpXgw8)
@@ -16,3 +9,11 @@ tags:
 * [它堪稱史上自由度最低的《俠客游》，結局是怎樣的？](https://www.youtube.com/watch?v=2NACR5inpTE)
 * [見人就殺！在俠客遊裡做“惡棍”，會迎來什麼結局？](https://www.youtube.com/watch?v=82rBPWDcgvo)
 * [主角一死、存檔損毀！20年前的超真實開放世界遊戲](https://www.youtube.com/watch?v=Joh5exuSIfE)
+
+
+---
+tags:
+  - [[Rouguelike]]
+  - [[老孫聊遊戲]]
+  - [[Open World]]
+---

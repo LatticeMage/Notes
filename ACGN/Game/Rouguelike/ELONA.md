@@ -1,12 +1,5 @@
 # ELONA
 
----
-tags:
-  - [[Rouguelike]]
-  - [[Open World]]
-  - [[]]
----
-
 美式Roguelike的 adom tome dcss nethack 和中式武俠的俠客遊都不是很吸引我  
 
 我本身不是很喜歡S/L，結果是elona我玩最久  
@@ -63,3 +56,11 @@ NPC裝備是隨機生成，生成時機為第一次進入村莊
 這些冒險者身上都有超級好物 不過偷失敗會仇視你XD  
 4.贏得競技場後 競技場裡的東西隨你偷  
 5.偷樹  
+
+
+---
+tags:
+  - [[Rouguelike]]
+  - [[Open World]]
+  - [[]]
+---

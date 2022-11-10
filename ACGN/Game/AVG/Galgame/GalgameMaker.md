@@ -1,13 +1,5 @@
 # GalgameMaker
 
----
-tags:
-  - [[Galgame]]
-  - [[AVG]]
-  - [[]]
----
-
-
 ## [視覺小說引擎列表](https://zh.wikipedia.org/zh-tw/%E8%A6%96%E8%A6%BA%E5%B0%8F%E8%AA%AA%E5%BC%95%E6%93%8E%E5%88%97%E8%A1%A8)
 
 
@@ -31,3 +23,12 @@ tags:
   * 評價：https://www.zhihu.com/question/68238029
 * RPG Maker
   * 很多galgame也是用RPG Maker製作的，特別是會有一些遊戲系統
+
+
+
+---
+tags:
+  - [[Galgame]]
+  - [[AVG]]
+  - [[]]
+---

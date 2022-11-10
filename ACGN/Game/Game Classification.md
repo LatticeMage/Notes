@@ -1,11 +1,5 @@
 # Game Classification
 
----
-tags:
-  - [[Game]]
-  - [[]]
----
-
 ## Table Game
 Tabletops(Tabletop games) can classify into two:
 * Deterministic / Stochastic
@@ -132,3 +126,9 @@ That is, a game can say it is multiply features.
 * [Lunamos](https://www.youtube.com/c/LunamosGaming)
 * [dogsama](https://www.youtube.com/c/dogsama)
 * [Gamker](https://www.youtube.com/channel/UCLgGLSFMZQB8c0WGcwE49Gw)
+
+---
+tags:
+  - [[Game]]
+  - [[]]
+---
