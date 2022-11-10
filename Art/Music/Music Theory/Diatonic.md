@@ -1,14 +1,5 @@
 # Diatonic
 
----
-tags:
-  - [[Music Theory]]
-  - [[Chord Notation]]
-  - [[NiceChord+ (好和弦+)]]
-  - [[Wen吉他誌]]  
----
-
-
 ## [Diatonic Scale](https://en.wikipedia.org/wiki/Diatonic_scale)
 [什麼是大調和小調？](https://www.youtube.com/watch?v=T70L-t60j5c)
 * Major scale
@@ -43,3 +34,14 @@ Also, in roman symbol
 
 ## Inversion of Diatonic chords
 $$ III^6_4 , ii°^4_3 , VI^4_3 $$
+
+
+
+---
+tags:
+  - [[Music Theory]]
+  - [[Chord Notation]]
+  - [[NiceChord+ (好和弦+)]]
+  - [[Wen吉他誌]]
+  - [[]]
+---

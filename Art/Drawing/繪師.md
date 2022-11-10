@@ -1,10 +1,5 @@
 # 繪師
 
----
-tags:
-  - [[Drawing]]
----
-
 白巾
 https://www.facebook.com/Bygin.net
 
@@ -16,3 +11,10 @@ https://twitter.com/ixy
 
 黄光剑
 https://twitter.com/hgjart
+
+
+---
+tags:
+  - [[Drawing]]
+---
+

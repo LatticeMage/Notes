@@ -1,10 +1,5 @@
 # 抖抖村
 
----
-tags:
-  - [[Drawing]]
----
-
 ## 行銷
 * [自由画手赚钱大攻略！怎么接单？哪些平台最赚钱，哪些是狗屎？](https://www.youtube.com/watch?v=k3dDmKoEosY)
 * [自己画的好没人看，别人画的烂却被吹捧？如何推广自己的作品](https://www.youtube.com/watch?v=0pFrpYK5SzY)
@@ -37,3 +32,12 @@ tags:
 * 原創風格
   * [不会原创怎么办？暴增原创力的8种小练习法]
   * [条到底是什么?!把现实提炼成各种风格的重要原理](https://www.youtube.com/watch?v=4QrF47zOQoA)
+
+
+
+---
+tags:
+  - [[Drawing]]
+  - [[抖抖村]]
+  - [[]]
+---

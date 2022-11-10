@@ -1,9 +1,6 @@
 # CSPHotKey
 
----
-tags:
-  - [[Drawing]]
----
+
 Written by teacher Minu
 
 快捷鍵|功能
@@ -27,3 +24,10 @@ C | 切換透明色
 H | 畫布水平鏡射 Flip Horizontal
 空白鍵 | 移動畫面 Hand
 R | 畫布旋轉
+
+
+---
+tags:
+  - [[Drawing]]
+  - [[]]
+---

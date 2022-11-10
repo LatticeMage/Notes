@@ -1,10 +1,5 @@
 # Interval
 
----
-tags:
-  - [[Music Theory]]
-  - [[NiceChord+ (好和弦+)]]
----
 
 ## [Interval](https://en.wikipedia.org/wiki/Interval_(music))
 [八分鐘以內，一次搞懂音程名稱！](https://www.youtube.com/watch?v=QLDktqMxgmY)
@@ -25,3 +20,12 @@ distance of pitch
 10|m7|A6|
 11|M7|d8|
 12|P8|A7|
+
+
+
+---
+tags:
+  - [[Music Theory]]
+  - [[NiceChord+ (好和弦+)]]
+  - [[]]
+---

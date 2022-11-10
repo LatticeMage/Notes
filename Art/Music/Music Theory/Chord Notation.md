@@ -1,12 +1,5 @@
 # Chord Notation
 
----
-tags:
-  - [[Music Theory]]
-  - [[Figured Bass]]
-  - [[NiceChord+ (好和弦+)]]
----
-
 ## Distance
 Chord | 1st | 2nd | 3rd |
 -|-|-|-
@@ -55,3 +48,14 @@ X 1st|6
 X 2nd|6<br>4
 Xm 1st|6
 Xm 2nd|6<br>4
+
+
+
+
+---
+tags:
+  - [[Music Theory]]
+  - [[Figured Bass]]
+  - [[NiceChord+ (好和弦+)]]
+  - [[]]
+---
