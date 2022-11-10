@@ -3,6 +3,7 @@
 ---
 tags:
   - [[Game]]
+  - [[]]
 ---
 
 ## Table Game

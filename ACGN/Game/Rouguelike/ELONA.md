@@ -4,6 +4,7 @@
 tags:
   - [[Rouguelike]]
   - [[Open World]]
+  - [[]]
 ---
 
 美式Roguelike的 adom tome dcss nethack 和中式武俠的俠客遊都不是很吸引我  
