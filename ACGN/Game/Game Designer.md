@@ -9,12 +9,21 @@
 * 推薦書單
   * 《遊戲設計的藝術：架構世界、開發介面、創造體驗，聚焦遊戲設計與製作的手法與原理》
     * 這本是很好的遊戲設計入門書，用很大的篇幅解釋遊戲設計在思考的是如何把某種體驗透過設計帶給玩家
+* 推薦Youtuber
+  * [Lunamos](https://www.youtube.com/c/LunamosGaming)
+    * 我個人最喜歡的yt，就像喜歡吃拉麵的人有口袋清單、喜歡聽地下樂團的人有自己的清單，Lunamos的遊戲清單就是我所追求的
+  * [Dogsama](https://www.youtube.com/c/dogsama)
+    * 我唯一有買會員的yt，從藝術哲學的角度去探討遊戲，我認為這才是遊戲啊
+  * [Extra Credits](https://www.youtube.com/extracredits)
+    * 國外知名的遊戲設計師yt，討論何謂遊戲設計，
+  * [Gamker攻壳官方频道](https://www.youtube.com/channel/UCLgGLSFMZQB8c0WGcwE49Gw)
+    * 以關卡設計角度去品評遊戲
+  * [森纳映画](https://www.youtube.com/c/SONAR%E6%A3%AE%E7%BA%B3%E6%98%A0%E7%94%BB)
 
 遊戲企劃類型繁多，而且工作內容跟名稱也不一定相同，
 比如可能有工作名稱叫做任務企劃/任務策劃，但工作內容有可能是
 1. 負責管理所有人的任務進度，阿不就是執行製作
 2. 負責設計遊戲內的任務系統，阿不就系統企劃
-
 同理，以下也只是我個人的定義和分類，沒有通用性，只是方便解說在現代分工下企劃可能做哪些事情
 
 ## 助理製作人
