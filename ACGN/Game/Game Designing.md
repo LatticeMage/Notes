@@ -7,10 +7,13 @@
 TA設定、競品分析
 
 天馬行空的發想  
-推薦影片： [如何把💡靈感變成遊戲？ #15堂課學會遊戲開發 🔧1發想 #遊戲編劇做遊戲 2](https://www.youtube.com/watch?v=SdfA7NBV0fI)
+* 推薦影片
+  * [如何把💡靈感變成遊戲？ #15堂課學會遊戲開發 🔧1發想 #遊戲編劇做遊戲 2](https://www.youtube.com/watch?v=SdfA7NBV0fI)
 
 將發想跟TA結合成提案  
-推薦影片： [如何講得一嘴好遊戲？ #15堂課學會遊戲開發 🔧2提案 #遊戲編劇做遊戲 4](https://youtu.be/uP2ZV-Z4CHI)
+* 推薦影片 
+  * [如何講得一嘴好遊戲？ #15堂課學會遊戲開發 🔧2提案 #遊戲編劇做遊戲 4](https://youtu.be/uP2ZV-Z4CHI)
+  * [30 Things I Hate About Your Game Pitch](https://youtu.be/4LTtr45y7P0)
 
 做出Prototype
 
