@@ -1,14 +1,5 @@
 # Self-management
 
----
-tags:
-  - [[Economy]]
-  - [[講日文的台灣女生 Tiffany]]
-  - [[Shawna 手写的小日常]]
-  - [[Ryan Wu]]
-  - [[即凉Lion]]
----
-
 ## 時間管理
 * Bullet Journal 子彈筆記
   * ★★★★★ [把時間軸加進子彈筆記裡，一起來成為時間管理大師！Time Tracker in Bullet Journal](https://youtu.be/FxvdEqRJEMU)
@@ -29,3 +20,13 @@ tags:
     * 番茄鐘
     * 緩衝區間
 * [生產力工具](../Science/Technology/Productivity%20Tools.md)
+
+---
+tags:
+  - [[Economy]]
+  - [[講日文的台灣女生 Tiffany]]
+  - [[Shawna 手写的小日常]]
+  - [[Ryan Wu]]
+  - [[即凉Lion]]
+  - [[]]
+---

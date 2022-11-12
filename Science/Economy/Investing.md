@@ -1,22 +1,5 @@
 # Investing
 
----
-tags:
-  - [[Economy]]
-  - [[Mindset]]
-  - [[清流君]]
-  - [[肉泥Ronnie]]
-  - [[美投讲美股]]
-  - [[李永乐老师]]
-  - [[老王看世界]]
-  - [[艾倫去哪兒 Allengoaround]]
-  - [[陳寗 NingSelect]]   
-  - [[雷瑪莉歐]]
-  - [[小六SixPoker]]
-  - [[好棒Bump]]
-  - [[Gooaye 股癌]]
----
-
 * 投資自己
   * ★★★★★ [小資族怎麼精進自己？最該投資項目的是「興趣」，還能靠它賺錢！](https://youtu.be/pmF7Pa2AuJk)
   * ★★★☆☆ [別再抱怨薪水只有22k了! 年輕人就是該勇於開創與自己興趣相關的副業! #關於錢的事 Ep. 17](https://youtu.be/wT2AZbBastc)
@@ -91,3 +74,21 @@ tags:
     * 現金流
 * 籌碼面
 * 消息面
+
+---
+tags:
+  - [[Economy]]
+  - [[Mindset]]
+  - [[清流君]]
+  - [[肉泥Ronnie]]
+  - [[美投讲美股]]
+  - [[李永乐老师]]
+  - [[老王看世界]]
+  - [[艾倫去哪兒 Allengoaround]]
+  - [[陳寗 NingSelect]]   
+  - [[雷瑪莉歐]]
+  - [[小六SixPoker]]
+  - [[好棒Bump]]
+  - [[Gooaye 股癌]]
+  - [[]]
+---

@@ -1,14 +1,5 @@
 # Business Model
 
----
-tags:
-  - [[Economy]]
-  - [[Men's Game 玩物誌]]
-  - [[Krenz's Artwork]]
-  - [[Ryan Wu]]
-  - [[陳寗 NingSelect]]
----
-
 ## 目標
 1. 解決問題(提供價值)
 2. 最小可行性產品
@@ -35,3 +26,13 @@ tags:
   * 經濟學基本
     * 生產者理論 TC=FC+VC
     * 不剪片
+
+---
+tags:
+  - [[Economy]]
+  - [[Men's Game 玩物誌]]
+  - [[Krenz's Artwork]]
+  - [[Ryan Wu]]
+  - [[陳寗 NingSelect]]
+  - [[]]
+---

@@ -1,18 +1,5 @@
 # Financial Independence
 
----
-tags:
-  - [[Economy]]
-  - [[Mindset]]
-  - [[Philosophy]]
-  - [[窮奢極欲]]
-  - [[超級歪 SuperY]]
-  - [[MoneyXYZ]]
-  - [[Gooaye 股癌]]
-  - [[Better Leaf 好葉]]
----
-
-
 * 何謂財富自由
   * ★☆☆☆☆ [EP20 | 財你個鳥富自由 討論騙人的話術](https://youtu.be/tkQr6bS77OE)
     * 陷阱01：收入消費成正比
@@ -42,3 +29,17 @@ tags:
   * ★★★☆☆ [3個善用正職工作的方法 | FIRE 財務自由【好葉】](https://youtu.be/lGQSWdb8RGk)
 * 陷阱04：在意機會成本又回到被資本主義綁架
 * ★★★☆☆ 《你的未來值多少?》
+
+
+---
+tags:
+  - [[Economy]]
+  - [[Mindset]]
+  - [[Philosophy]]
+  - [[窮奢極欲]]
+  - [[超級歪 SuperY]]
+  - [[MoneyXYZ]]
+  - [[Gooaye 股癌]]
+  - [[Better Leaf 好葉]]
+  - [[]]
+---

@@ -1,21 +1,5 @@
 # Investing 2
 
----
-tags:
-  - [[Economy]]
-  - [[Ryan Wu]]
-  - [[Mindset]]
-  - [[窮奢極欲]]
-  - [[Investing]]
-  - [[即凉Lion]]
-  - [[老石谈芯]]
-  - [[SBD Taiwan 邱個]]
-  - [[Better Leaf 好葉]]
-  - [[Philosophy]]
-  - [[在地上滾的工程師 Nic]]
-  - [[Psychology]]
----
-
 ## References
 * 書單
   * ★★★★☆ 《灰階思考》
@@ -50,3 +34,21 @@ tags:
   * 以投入能量作為抽象化思考
 * 優化生產流程
   * [生產力工具](../Science/Technology/Productivity%20Tools.md)
+
+
+---
+tags:
+  - [[Economy]]
+  - [[Ryan Wu]]
+  - [[Mindset]]
+  - [[窮奢極欲]]
+  - [[Investing]]
+  - [[即凉Lion]]
+  - [[老石谈芯]]
+  - [[SBD Taiwan 邱個]]
+  - [[Better Leaf 好葉]]
+  - [[Philosophy]]
+  - [[在地上滾的工程師 Nic]]
+  - [[Psychology]]
+  - [[]]
+---
