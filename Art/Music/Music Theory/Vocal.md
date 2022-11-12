@@ -1,10 +1,5 @@
 # Vocal
 
----
-tags:
-  - [[Music Theory]]
----
-
 
 ## Singing
 
@@ -16,3 +11,10 @@ tags:
 https://www.youtube.com/watch?v=DcN0kAxFF8s
 
 * [Kaila Mullady // Mexico city](https://www.youtube.com/watch?v=Y2t4IB_hUvk)
+
+
+---
+tags:
+  - [[Music Theory]]
+  - [[]]
+---

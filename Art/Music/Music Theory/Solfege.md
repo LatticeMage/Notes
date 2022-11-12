@@ -1,10 +1,5 @@
 # Solfège
 
----
-tags:
-  - [[Music Theory]]
----
-
 ## Musical note name
 
 ## [Solfège](https://en.wikipedia.org/wiki/Solf%C3%A8ge)
@@ -61,3 +56,10 @@ i# -> ai
 b -> e
 eb -> aw
 ```
+
+
+---
+tags:
+  - [[Music Theory]]
+  - [[]]
+---
