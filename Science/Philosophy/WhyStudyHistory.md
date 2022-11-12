@@ -1,14 +1,5 @@
 # WhyStudyHistory
 
----
-tags:
-  - [[Philosophy]]
-  - [[History]]
-  - [[Learned Helplessness]]
-  - [[Overfitting]]
----
-
-
 可以看到有些人建議要學歷史，ex: [學歷史的大用：呂世浩(Shih-Hao Lu) at TEDxTaipei 2014](https://www.youtube.com/watch?v=Ap0w3PgSK7g)
 
 其中的理由是把自己放在當下環境的時候要如何做決策，再往後驗證。 這也跟許多成功學一樣說要去看成功者的過程。
@@ -50,3 +41,14 @@ Overfitting例子不勝枚舉，有一個心理學實驗大致如下：
 我今天給高電壓一側加強電壓，狗狗只要跳過就會死亡。
 
 對此我可以給個結論：「這隻狗太聰明了，保住了自己的命沒有跳到另一邊。」
+
+
+---
+tags:
+  - [[Philosophy]]
+  - [[History]]
+  - [[Learned Helplessness]]
+  - [[Overfitting]]
+  - [[]]
+---
+
