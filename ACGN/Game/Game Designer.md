@@ -52,6 +52,7 @@ Causual Game會需要強大的營運企劃，需要知道市場喜歡甚麼，�
 競品分析舉例：我寫的[Clut of Lamb競品分析](http://www.posetmage.com/resume/CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
 
 * 推薦影片
+  * [[2021 TGDF] 如何觀察市場並預估你遊戲的表現 (Chris Zukowski)](https://www.youtube.com/watch?v=4qrUmVYp76I) 
   * [[TGDF 2014] 李思毅 - 獨立開發者的生存之道 - 談《Hyper Square》的經營與展望](https://youtu.be/Vcdzg3-O5E0)
   * [TGDF 2016 - Day2 李思毅 - 傳遞感動怎麼可以這麼難？《OPUS 地球計畫》的開發與發行經驗分享](https://youtu.be/HG3vME5zZFA)
   * [如何🦹‍♂️偷走🦹‍♀️優秀的遊戲設計？ #15堂課學會遊戲開發 🔧3玩法 #遊戲編劇做遊戲 7 ](https://youtu.be/YbygOXP07WY)  
