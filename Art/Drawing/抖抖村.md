@@ -8,6 +8,7 @@
 
 
 ## 等級
+* [你是什么等级的画手？自测目前绘画实力和段位水平](https://youtu.be/61Fv1MA7agw)
 * [画成啥样能有收入？0基础咋开始？RPG一样的提升画技全攻略](https://www.youtube.com/watch?v=AIufILDRw5U)
 * [再也不担心每天练啥!绘画前6年最快升级日程表](https://www.youtube.com/watch?v=BBrRhJYiK9Q)
 * [靠“多画”真的就能画好？提高绘画水平的捷径](https://www.youtube.com/watch?v=LJu6c6aMrfc)
