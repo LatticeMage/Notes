@@ -22,7 +22,7 @@
 * 正確的練習
   * [自己正做着正确的绘画练习,还是在摸鱼](https://www.youtube.com/watch?v=Wd7C942jIjc)
 * 微練習
-  * 1. [随时提升画技的微练习|社恐画手必备](https://www.youtube.com/watch?v=ZNzh00igBQc)
+  * 1. [随时提升画技的微练习 社恐画手必备](https://www.youtube.com/watch?v=ZNzh00igBQc)
   * 2. [利用碎片时间暴增画技的微练习法-2](https://www.youtube.com/watch?v=Aj1ZAV8ZwR0)
     * 方塊
     * 速寫
