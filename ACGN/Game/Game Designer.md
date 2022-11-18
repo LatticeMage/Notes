@@ -3,6 +3,8 @@
 遊戲設計師是早年的稱呼，現在專業分工下加上吸收了商業化領域的知識，近年稱為企劃，而對岸稱為策劃。
 英文也有差異，歐美是稱為 Game Designer，日本則稱為 Game Planner，所以有些人誤以為企劃只是管理而非設計。
 
+* 推薦網站/文章
+  * [水之方舟 Mizu-Ark 水狼的遊戲設計文章列表](https://www.facebook.com/MizuArk/posts/pfbid02iYLNv1ScF9dJ8U8YV34Fp2divZAeXgJNGFV22WBkwmrWQCPLb2oR9mtB8Rj9o9eGl)  
 * 推薦影片
   * [如何進入遊戲開發行業(上)](https://youtu.be/0MCTJfmuTyU)
   * [如何進入遊戲開發行業(下)](https://youtu.be/VXWpZJqLe28)
