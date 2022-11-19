@@ -60,13 +60,16 @@ Causual Game會需要強大的營運企劃，需要知道市場喜歡甚麼，�
   * 《遊戲數據分析的藝術》
   * 《游戲數據分析實戰》
 
-## QA( Quality Assurance)
+## QA(Quality Assurance)
 QA也是遊戲企劃的一種，能給予Prototype或者完整的遊戲作品改善建議。  
 最好是懂遊戲核心體驗和UI/UX，喜歡玩各種遊戲，這樣才能給出比較全面的建議。
 
 ## 遊戲編劇(Game Writer)
+另一個可能會放在一起的職位: 敘事設計(Narrative Designer)
+
 負責撰寫遊戲腳本，幾十年前許多遊戲只是先寫劇本再轉變成遊戲，劇情和機制沒有那麼貼合。  
 現代許多遊戲編劇是要考量遊戲機制去設計世界觀和劇情
+
 
 * 推薦影片
   * [其實你本來就會的！😲簡單有效大綱撰寫法😎 🔧6故事簡綱 #遊戲編劇做遊戲 12](https://youtu.be/HkZMQc2wYUg)
@@ -104,6 +107,8 @@ Roguelike類、卡牌類遊戲，很需要強大的數值企劃去做遊戲平�
 ## 技術策劃(Technical Designer)
 很懂理工技術的策劃，能看出一個遊戲是怎麼用程式實作出來的，比如背後所使用的物理公式
 
+* 推薦文章
+  * [什么特质会让你立刻觉得一个游戏技术策划（Technical Designer）很靠谱？](https://www.zhihu.com/question/534524335)
 
 ## 主企劃/主策劃/企劃總監
 可能稱為 Game Director, Lead Game Designer  
