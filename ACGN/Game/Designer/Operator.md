@@ -24,3 +24,9 @@ Causual Game會需要強大的營運企劃，需要知道市場喜歡甚麼，�
 
 
 競品分析舉例：我寫的[Clut of Lamb競品分析](http://www.posetmage.com/resume/CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
+
+---
+tags:
+  - [[Game Designer]]
+  - [[]]
+---

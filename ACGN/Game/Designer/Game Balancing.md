@@ -18,3 +18,11 @@ Roguelike類、卡牌類遊戲，很需要強大的數值企劃去做遊戲平�
   * [遊戲企劃必修課：淺談「戰鬥數值」設計 Part.01](https://medium.com/that-game-designer/%E9%81%8A%E6%88%B2%E4%BC%81%E5%8A%83%E5%BF%85%E4%BF%AE%E8%AA%B2-%E6%B7%BA%E8%AB%87-%E6%88%B0%E9%AC%A5%E6%95%B8%E5%80%BC-%E8%A8%AD%E8%A8%88-part-01-41221795460c)
   * [遊戲企劃必修課：淺談「戰鬥數值」設計 Part.02](https://medium.com/that-game-designer/%E9%81%8A%E6%88%B2%E4%BC%81%E5%8A%83%E5%BF%85%E4%BF%AE%E8%AA%B2-%E6%B7%BA%E8%AB%87-%E6%88%B0%E9%AC%A5%E6%95%B8%E5%80%BC-%E8%A8%AD%E8%A8%88-part-02-6dc577eb5143)
   * [遊戲企劃必修課：淺談「戰鬥數值」設計 Part.03](https://medium.com/that-game-designer/%E9%81%8A%E6%88%B2%E4%BC%81%E5%8A%83%E5%BF%85%E4%BF%AE%E8%AA%B2-%E6%B7%BA%E8%AB%87-%E6%88%B0%E9%AC%A5%E6%95%B8%E5%80%BC-%E8%A8%AD%E8%A8%88-part-03-fce766f78a22)
+
+
+
+---
+tags:
+  - [[Game Designer]]
+  - [[]]
+---

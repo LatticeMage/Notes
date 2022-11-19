@@ -28,16 +28,20 @@
 2. 負責設計遊戲內的任務系統，阿不就系統企劃  
 同理，以下也只是我個人的定義和分類，沒有通用性，只是方便解說在現代分工下企劃可能做哪些事情
 
-## 營運企劃
+## 營運企劃(Operator)
 參考[營運企劃](../Designer/Operator/)
 
-## 遊戲編劇
+## 遊戲編劇(Game Writer)
 參考[遊戲編劇](../Designer/Game%20Writer/)
 
-## 系統企劃
+## 系統企劃(System Designer)
 參考[系統企劃](../Designer/System%20Designer/)
+### 打擊感
+* [【專欄】別再揮空氣了！關於遊戲中的「打擊感」三兩事](https://gnn.gamer.com.tw/detail.php?sn=125251)
+* [[設計] 絕對有爽感保證的遊戲設計](https://www.ptt.cc/bbs/GameDesign/M.1668391918.A.A33.html)
+* [动作游戏打击感的来源是什么？ - 知乎](https://www.zhihu.com/question/21342866)
 
-## 數值企劃
+## 數值企劃(Game Balancing)
 參考[數值企劃](../Designer/Game%20Balancing/)
 
 ## 關卡企劃(Level Design)

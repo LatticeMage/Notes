@@ -11,3 +11,10 @@
   * [怎麼招待你遊戲的「新手」們？](https://medium.com/that-game-designer/%E6%80%8E%E9%BA%BC%E6%8B%9B%E5%BE%85%E4%BD%A0%E9%81%8A%E6%88%B2%E7%9A%84-%E6%96%B0%E6%89%8B-%E5%80%91-f43cc4b8bb6e)
 * 推薦影片
   * 
+
+
+---
+tags:
+  - [[Game Designer]]
+  - [[]]
+---
