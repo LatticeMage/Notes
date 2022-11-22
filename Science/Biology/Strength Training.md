@@ -37,15 +37,9 @@
     * [別再做仰臥起坐了！你的腰椎在哀嚎！😱六塊肌迷思破解【SBD怪獸講堂 S1:E16】](https://www.youtube.com/watch?v=aXJSPmzsGKc)
   * 伏地挺身
     * [「一拳超人訓練法」其實很危險? 千萬不要學埼玉老師...蒼藍鴿評評理EP11](https://www.youtube.com/watch?v=V1Pp1GlCRB8)
-* 可以做 中軸穩固 四肢發力
-  * 
-
-
-## 器材
-[[重訓] 彈力帶可以練重量](https://quantumnecro.blogspot.com/2021/06/blog-post.html)
-
-
-
+* 可以做 
+  * 中軸穩固 四肢發力
+    * [彈力帶可以練重量](https://quantumnecro.blogspot.com/2021/06/blog-post.html)
 
 
 ---
