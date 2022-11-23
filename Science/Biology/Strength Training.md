@@ -1,12 +1,10 @@
 # Strength Training
 
-* 推薦書單
-  * 怪獸訓練肌力及體能訓練手冊
-  * 槓鈴處方：抗老化肌力訓練
 
 ## 基本通用理論
 * 心態
   * [一輩子的事，可以輕鬆面對](https://www.youtube.com/watch?v=6aPiiplJd5k)
+  * [運動心理學](/Knowledge/Science/Psychology/Sport%20Psychology)
 * 飲食
   * 七分吃三分練
   * [你知道碳水攝取百分比多少，可以有最低的健康風險嗎？](https://youtu.be/xqAo_9ZIhOY)
@@ -26,6 +24,9 @@
 * 呼吸
   * [重訓時如何正確呼吸？避免受傷！舉得更重！](https://www.youtube.com/watch?v=-RqGaejME8o)
   * [健身技巧｜健身時如何呼吸？力量如何突破？瓦氏呼吸法，教程來了！ 【埃里克】](https://www.youtube.com/watch?v=5H-qRkogLl8)
+* 推薦書單
+  * 《怪獸訓練肌力及體能訓練手冊》
+  * 《槓鈴處方：抗老化肌力訓練》
 
 ## 動作
 
@@ -51,5 +52,6 @@ tags:
   - [[白天手術房晚上健身房]]
   - [[SBD Taiwan 邱個]]
   - [[營養師Ricky's Time]]
+  - [[Sport Psychology]]
   - [[]]
 ---
