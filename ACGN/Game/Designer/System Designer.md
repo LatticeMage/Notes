@@ -12,6 +12,11 @@
   * [遊戲企劃必修課：如何設計遊戲的「核心循環」？](https://medium.com/that-game-designer/%E9%81%8A%E6%88%B2%E4%BC%81%E5%8A%83%E5%BF%85%E4%BF%AE%E8%AA%B2-%E5%A6%82%E4%BD%95%E8%A8%AD%E8%A8%88%E9%81%8A%E6%88%B2%E7%9A%84-%E6%A0%B8%E5%BF%83%E5%BE%AA%E7%92%B0-8dad19cb0f91)
 
 
+### 打擊感
+* [【專欄】別再揮空氣了！關於遊戲中的「打擊感」三兩事](https://gnn.gamer.com.tw/detail.php?sn=125251)
+* [[設計] 絕對有爽感保證的遊戲設計](https://www.ptt.cc/bbs/GameDesign/M.1668391918.A.A33.html)
+* [动作游戏打击感的来源是什么？ - 知乎](https://www.zhihu.com/question/21342866)
+
 ---
 tags:
   - [[Game Designer]]
