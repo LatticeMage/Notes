@@ -1,19 +1,5 @@
 # Growing
 
----
-tags:
-  - [[Psychology]]
-  - [[Krenz's Artwork]]
-  - [[抖抖村]]
-  - [[成田工作室]]
-  - [[CYFIT兆佑]]
-  - [[笑哈哈LOL]]
-  - [[檸檬卷 Janet]]
-  - [[Rick Beato]]
-  - [[啾啾鞋]]
-  - [[SBD Taiwan 邱個]]
----
-
 ## 學習心態
 * 藝術是生活的一部分
   * ★★★★★ [一輩子的事，可以輕鬆面對](https://www.youtube.com/watch?v=6aPiiplJd5k)
@@ -45,3 +31,19 @@ tags:
 * 練習成功率=表演時成功率
     * ★★☆☆☆ [我比過14個國際小提琴大賽 feat. 林品任 || LOL About Music Ep.56](https://youtu.be/Ml8vEmRE3eE)
     * ★★☆☆☆ [為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+)](https://youtu.be/4CaQVNRDPiA)
+
+
+---
+tags:
+  - [[Psychology]]
+  - [[Krenz's Artwork]]
+  - [[抖抖村]]
+  - [[成田工作室]]
+  - [[CYFIT兆佑]]
+  - [[笑哈哈LOL]]
+  - [[檸檬卷 Janet]]
+  - [[Rick Beato]]
+  - [[啾啾鞋]]
+  - [[SBD Taiwan 邱個]]
+  - [[]]
+---
