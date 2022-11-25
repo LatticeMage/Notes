@@ -9,11 +9,30 @@ tags:
 ---
 
 ## Guitar
+* [Conny Berghäll - Revolution](https://youtu.be/9r9ghRna95I)
+* [Trace Bundy - Patanga](https://youtu.be/3DbjT8vFpro)
 ---
 tags:
-  - [[成田工作室]]
-  - [[Bai Tone白懂]]
-  - [[Wen吉他誌]]
+  - [[Yuki Matsui / 松井祐貴]]
+  - [[Seiji Igusa]]
+  - [[Satoshi Gogo]]
+  - [[petterisariola]]
+  - [[Jon Gomm]]
+  - [[Tommy Emmanuel]]
+  - [[押尾コータロー]]
+  - [[Masaaki Kishibe Guitar Channel]]
+  - [[mikedawesofficial]]
+  - [[Tobias Rauscher]]
+  - [[Pierre Bensusan]]
+  - [[Sungha Jung]]
+  - [[Don Ross]]
+  - [[Andy McKee]]
+  - [[Chen Henry]]
+  - [[Daniel Padim]]
+  - [[Justin King]]
+  - [[Luca Stricagnoli]]
+  - [[Elena Yerevan]]
+  - [[DEPAPEPE Official YouTube Channel]]
   - [[]]
 ---
 
@@ -22,8 +41,6 @@ tags:
 tags:
   - [[董舜文的頻道]]
   - [[Animenz Piano Sheets]]
-  - [[笑哈哈LOL]]
-  - [[檸檬卷 Janet]]
   - [[]]
 ---
 
