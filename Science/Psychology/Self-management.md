@@ -7,10 +7,10 @@
 * 即凉Lion
   * ★★★★★ [我的时间管理心得｜如何更好的利用你的时间？](https://youtu.be/BwK89fZszyk)
   * ★★★★☆ [神之时间管理术｜这样做，你的时间也能多一倍！](https://youtu.be/O6u_BuXpu7Q)
-  * ★★★★☆ [精力管理｜如何优化你的工作流？（Energy Management | How to optimize your workflow?）](https://youtu.be/8R_9cAvzDcU)
+  * ★★★★☆ [精力管理｜如何优化你的工作流？（Energy Management｜How to optimize your workflow?）](https://youtu.be/8R_9cAvzDcU)
 
 ## 任務管理
-* ★★★★★ 時間管理：12週完成12個月的事 | 超高效時間管理術 (The 12 Week Year) 
+* ★★★★★ 時間管理：12週完成12個月的事｜超高效時間管理術 (The 12 Week Year) 
 * 時間管理
   * 大腦清空
     * 前一天預先規劃隔天的行程
