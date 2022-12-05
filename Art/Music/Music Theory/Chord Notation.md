@@ -14,8 +14,10 @@ minor 7th|m3|M3|m3
 Dominant 7th|M3|m3|m3
 diminished 7th|m3|m3|m3
 
-## Notation
- * https://en.wikipedia.org/wiki/Chord_notation
+* Example
+  * X5 https://www.youtube.com/watch?v=Ammw1BkyNIQ
+
+## [Chord Notation](https://en.wikipedia.org/wiki/Chord_notation)
  * https://www.pianochord.org/c.html
 
 Chord | Notation
@@ -43,7 +45,9 @@ Xm 2nd|P4|m6
 [十分鐘以內，一次搞懂所有的現代和弦代號！](https://www.youtube.com/watch?v=I0y2LY4sPZA)
 
 ## [Figured Bass](https://en.wikipedia.org/wiki/Figured_bass)
-[數字低音！](https://www.youtube.com/watch?v=_I5EPcOykrc)
+
+* [數字低音！](https://www.youtube.com/watch?v=_I5EPcOykrc)
+
 Chord | Figured Bass
 -|-
 X 1st|6
