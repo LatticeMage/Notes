@@ -37,7 +37,7 @@ Half-dim 7th| Xm7b5, Xø
 Chord | 1st | 2nd | 3rd 
 -|-|-|-
 X5 1st|P4
-X 1st|m3|M6
+X 1st|m3|m6
 X 2nd|P4|M6
 Xm 1st|M3|M6
 Xm 2nd|P4|m6
