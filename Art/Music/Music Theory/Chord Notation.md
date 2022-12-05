@@ -25,7 +25,7 @@ minor triad | Xm, x
 major 7th| XM7, Xmaj7
 minor 7th| Xm7, Xm7
 Dominant 7th| X7
-Power Chrod| X5
+Power Chord| X5
 Augmented triad| Xaug, X+
 Diminished triad| Xdim, x°
 Half-dim 7th| Xm7b5, Xø
