@@ -1,7 +1,8 @@
 # Chord Notation
 
 ## Distance
-Chord | 1st | 2nd | 3rd |
+
+Chord | 1st | 2nd | 3rd 
 -|-|-|-
 Power Chord|P5
 Major triad|M3|m3|
@@ -30,7 +31,8 @@ Diminished triad| Xdim, x°
 Half-dim 7th| Xm7b5, Xø
 
 ## Inversion
-Chord | 1st | 2nd | 3rd |
+
+Chord | 1st | 2nd | 3rd 
 -|-|-|-
 X5 1st|P4
 X 1st|m3|M6
