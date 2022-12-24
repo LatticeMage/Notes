@@ -24,12 +24,12 @@
 ## 高效練習
 * ★★★★★ 《逆向工程，你我都能變優秀的祕訣：全球頂尖創新者、運動員、藝術家共同實證》
 * 記錄一切+事後分析
-* ★★★★★ [只要努力，沒有天賦也能成為高手! | 刻意練習 | 啾讀。第15集 | 啾啾鞋](https://youtu.be/ebwmwDtEZO0)
+* ★★★★★ [只要努力，沒有天賦也能成為高手!｜刻意練習｜啾讀。第15集｜啾啾鞋](https://youtu.be/ebwmwDtEZO0)
   * 別練屠龍術
     * ★★☆☆☆ [吉他：拒绝无效爬格子练习！高效练琴的妙招了解一下！](https://youtu.be/CDQCWfYmVxg)
     * ★☆☆☆☆ [Creative Guitar Practice Ideas!](https://youtu.be/CxtgJynvDlU)
 * 練習成功率=表演時成功率
-    * ★★☆☆☆ [我比過14個國際小提琴大賽 feat. 林品任 || LOL About Music Ep.56](https://youtu.be/Ml8vEmRE3eE)
+    * ★★☆☆☆ [我比過14個國際小提琴大賽 feat. 林品任｜LOL About Music Ep.56](https://youtu.be/Ml8vEmRE3eE)
     * ★★☆☆☆ [為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+)](https://youtu.be/4CaQVNRDPiA)
 
 

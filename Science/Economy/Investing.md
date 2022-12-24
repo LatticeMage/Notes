@@ -13,13 +13,13 @@
   * ★★★☆☆ [【小六德州撲克】27歲賺進上千萬台幣！？人生的潮起與潮落！該如何克服下風期以及面對上風期的心態？我的德州撲克回憶錄（完）](https://www.youtube.com/watch?v=I6XTMluHrR4)
   * 賭徒謬誤
     * ★★★☆☆ [李永樂老師講賭徒謬誤](https://www.youtube.com/watch?v=yoOocF47BRI)
-    * ★★☆☆☆ [【玻璃心慎入】總是被超車、撞牌！？為什麼線上撲克這麼難贏錢？？揭開平台「發牌系統作弊」的真相！！| 小六德州撲克](https://www.youtube.com/watch?v=MjMB-yR7psU&list=PLDD0Zm1dzAcggwnDr4Ell2DpQD1Ck_8e5&index=9)
+    * ★★☆☆☆ [【玻璃心慎入】總是被超車、撞牌！？為什麼線上撲克這麼難贏錢？？揭開平台「發牌系統作弊」的真相！！｜小六德州撲克](https://www.youtube.com/watch?v=MjMB-yR7psU&list=PLDD0Zm1dzAcggwnDr4Ell2DpQD1Ck_8e5&index=9)
 * ★★☆☆☆ [看懂了這個，你再去炒股；股市暴跌，為啥散戶炒股票總賠錢？李永樂](https://www.youtube.com/watch?v=g-wCpEZBEdw)
 * 甚麼樣的投資方式適合自己?
   * 睡覺指標
 * EV
   * 什麼是波動
-    * ★★☆☆☆ [德州撲克到底是技術還是運氣？技術運氣比重又分別是幾比幾呢？來聽聽前職業德州撲克玩家怎麼說！| 小六德州撲克](https://www.youtube.com/watch?v=2iwgZC5mHuk)
+    * ★★☆☆☆ [德州撲克到底是技術還是運氣？技術運氣比重又分別是幾比幾呢？來聽聽前職業德州撲克玩家怎麼說！｜小六德州撲克](https://www.youtube.com/watch?v=2iwgZC5mHuk)
     * ★★☆☆☆ [#想到就拍2｜聊聊德州扑克的下风期，你真的是在下风期吗？我是怎么处理的](https://www.youtube.com/watch?v=oJB0tkq_AUA)
   * 每次投入比率
     * ★★☆☆☆ [賭徒輸光原理](https://www.youtube.com/watch?v=AadaEc6pJpw)
