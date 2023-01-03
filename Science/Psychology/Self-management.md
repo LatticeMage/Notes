@@ -19,7 +19,7 @@
     * 深度工作力
     * 番茄鐘
     * 緩衝區間
-* [生產力工具](../Science/Technology/Productivity%20Tools.md)
+* [生產力工具](Knowledge/Science/Technology/Productivity%20Tools.md)
 
 ---
 tags:
