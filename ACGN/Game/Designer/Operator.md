@@ -23,6 +23,20 @@ Causual Game會需要強大的營運企劃，需要知道市場喜歡甚麼，�
 
 
 
+
+## AI寫的如何寫一份遊戲競品分析
+To write a good competitive product analysis of video games, you will need to research and gather information about the video games you are comparing. Here are some steps you can follow:
+* Identify the video games you want to compare. This could be two or more games in the same genre or games that are similar in some other way.
+* Research the features and gameplay of each game. Look at the game's website, watch trailers or gameplay videos, and read reviews to get a sense of what the game is like.
+* Identify the target audience for each game. This will help you understand who the game is intended for and how it compares to other games in the market.
+* Determine the strengths and weaknesses of each game. Consider factors such as graphics, storyline, gameplay, replay value, and other features that are important to the target audience.
+* Compare the games to each other. Look at how they compare in terms of their target audience, features, gameplay, and other relevant factors.
+* Write a summary of your analysis. This should include an overview of the games you compared, a comparison of their strengths and weaknesses, and your conclusions about which game is the best for the target audience.
+* Consider adding any additional information or analysis that you think would be helpful to readers. This could include details about the developers, the marketing strategies for the games, or any other relevant information.
+
+
+By following these steps, you can write a thorough and informative competitive product analysis of video games.
+
 競品分析舉例：我寫的[Clut of Lamb競品分析](http://www.posetmage.com/resume/CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
 
 ---
