@@ -1,7 +1,0 @@
-# Evolution
-
----
-tags:
-  - [[Biology]]
-  - [[]]
----
