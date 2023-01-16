@@ -5,6 +5,7 @@
 ### ch
 接下來我會給你一堆資料，你只要回答我"收到"，不要再回答我其他東西。
 直到我說出"幫我分類與整理，描述細節"才幫我統整，在此之前不要回答我其他任何事物。
+我的第一筆資料是""
 
 ### en
 Later I will give you serveral materials or resources.
