@@ -49,6 +49,15 @@ I will be keeping translations. If two setense are same meaning, just reply "相
 there is an only special case, that is ,  two setense are not same meaning. if this happen give me right translate from ch to en.
 Until I say "stop compare", otherwise, do not say something more if same.
 
+
+
+
+## 下標題 分類
+based on all we talked, what is a good term to describe these.
+
+we can spilt feilds such as math, myth, history,
+what is XXX belong to ?
+
 ---
 tags:
   - [[Technology]]
