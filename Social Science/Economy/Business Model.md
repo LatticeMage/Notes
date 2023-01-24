@@ -32,7 +32,7 @@
 
 ---
 tags:
-  - [[Economy]]
+  - [[Economics]]
   - [[Men's Game 玩物誌]]
   - [[Krenz's Artwork]]
   - [[Ryan Wu]]

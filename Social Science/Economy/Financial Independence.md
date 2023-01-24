@@ -33,7 +33,7 @@
 
 ---
 tags:
-  - [[Economy]]
+  - [[Economics]]
   - [[Mindset]]
   - [[Philosophy]]
   - [[窮奢極欲]]

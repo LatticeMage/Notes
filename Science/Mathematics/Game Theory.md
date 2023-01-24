@@ -22,6 +22,7 @@ Ultimately, the goal of game theory is to maximize expected value (EV) for the p
 ---
 tags:
   - [[Mathematics]]
+  - [[Economics]]
   - [[Mental Toughness]]
   - [[Sport Psychology]]
   - [[李永乐老师]]

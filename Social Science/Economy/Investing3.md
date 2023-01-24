@@ -29,7 +29,7 @@ In summary, seeking out unlimited rewards and limited losses is an important goa
 
 ---
 tags:
-  - [[Economy]]
+  - [[Economics]]
   - [[Gooaye 股癌]]
   - [[小六SixPoker]]
   - [[窮奢極欲]]

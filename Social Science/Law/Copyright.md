@@ -1,12 +1,5 @@
 # Copyright
 
----
-tags:
-  - [[Programming]]
-  - [[Law]]
-  - [[Lisence]]
----
-
 
 ## MIT vs GPL
 
@@ -36,3 +29,12 @@ https://zh.wikipedia.org/wiki/%E5%89%B5%E7%94%A8CC
   * [WTFPL](https://zh.wikipedia.org/wiki/WTFPL)
 
 https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/tree/master/Setting/Appendix/Tools
+
+
+---
+tags:
+  - [[Programming]]
+  - [[Law]]
+  - [[Lisence]]
+  - [[]]
+---

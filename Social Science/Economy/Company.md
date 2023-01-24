@@ -7,5 +7,6 @@ https://serv.gcis.nat.gov.tw/pub/cmpy/nameSearchListAction.do
 ---
 tags:
   - [[Government]]
+  - [[Economics]]
   - [[]]
 ---

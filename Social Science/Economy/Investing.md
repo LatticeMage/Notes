@@ -77,7 +77,7 @@
 
 ---
 tags:
-  - [[Economy]]
+  - [[Economics]]
   - [[Mindset]]
   - [[清流君]]
   - [[肉泥Ronnie]]

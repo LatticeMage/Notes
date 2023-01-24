@@ -1,4 +1,4 @@
-# Analytical
+# Analytical Thinking
 
 * Top-down:
   * Top-down thinking

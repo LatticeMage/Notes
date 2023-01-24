@@ -8,7 +8,7 @@
 
 ---
 tags:
-  - [[Economy]]
+  - [[Economics]]
   - [[窮奢極欲]]
   - [[超級歪 SuperY]]
   - [[]]
