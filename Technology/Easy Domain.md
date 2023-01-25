@@ -49,7 +49,7 @@
 完成之後你的<your_domain> 就可以連到你的yourname.github.io的頁面
 
 ## 結論
-Q: 這個網站好醜，為什麼不要請工程師寫好看的頁面?
+Q: 這個網站好醜，為什麼不要請工程師寫好看的頁面?  
 A:![](https://i.imgur.com/afA0fr9.png)
 
 

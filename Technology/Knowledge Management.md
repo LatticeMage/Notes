@@ -2,6 +2,7 @@
 
 ## 前言(可跳過的廢話)
 * 經常需要蒐集大量的知識庫
+  * ChatGPT網頁不穩，資料可能消失，最好存下來
 * 現代知識都是跨領域的(ex: 可能一個知識同時橫跨藝術、科學、社會多重領域)
 * 以往的圖書館分類系統不適用
 * 網狀知識系統符合人腦思考方式 - 神經網路
@@ -26,6 +27,10 @@
 * 所以需要一個轉換器
   * 此[Converter](https://github.com/QuantumNecro/QuantumNecro.github.io/tree/main/Converter)需要安裝python
 
+## 結論
+Q: 既然都要轉換，為什麼不要用 build tool 將 markdown 轉成 html?  
+   而且暴力CD好蠢  
+A:![](https://i.imgur.com/afA0fr9.png)
 
 ---
 tags:
