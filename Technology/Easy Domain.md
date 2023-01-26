@@ -21,36 +21,35 @@
 2. 註冊github帳號，名稱隨意，等等會蓋掉
 3. 到Cloudflare註冊一個帳號
 4. 在cloudflare買一個網域，名稱重要，等等是用這個
-  * 不熱門的域名大概USD$9/year，買一個你開心的網域<your_domain>
+  * 不熱門的域名大概USD$9/year，買一個你開心的網域**<your_domain>**
   * 另一個方式去Godaddy買之後由cloudflare代管，我個人認為太麻煩了
 
 ## mail
 * 需要讓gmail偽裝自己的mail address
 * 需要讓收信送進自己的gamil
-* 使用強者我學長的教學
-  * https://github.com/FlandreDaisuki/gh-as-blog/issues/7
-* 完成之後你的 mail@<your_domain> 可以收信和寄信囉
+* 使用[強者我學長的教學](https://github.com/FlandreDaisuki/gh-as-blog/issues/7)
+* 完成之後你的 mail@**<your_domain>** 可以收信和寄信
 
 ## 架站，使用github.io
-* 註冊一個github帳號<your_name>
-* 開一個專案名為<your_name>.github.io
+* 註冊一個github帳號**<your_name>**
+* 開一個專案名為**<your_name>**.github.io
 
 #### 寫你的第一個頁面
 * github.io一律使用README.md
 * 參考專案 
   * [posetmage.github.io](https://github.com/posetmage/posetmage.github.io)
   * [QuantumNecro.github.io](https://github.com/QuantumNecro/QuantumNecro.github.io)
-* 完成之後，就可以看 https://<your_name>.github.io/
+* 完成之後，就可以看 https://**<your_name>**.github.io/
 
 #### 改網址
 1. GitHub上設定偽裝網址
 2. Cloudflare DNS設定CNAME
 
-完成之後你的<your_domain> 就可以連到你的yourname.github.io的頁面
+完成之後你的**<your_domain>** 就可以連到你的**<your_name>**.github.io的頁面
 
 ## 結論
 Q: 這個網站好醜，為什麼不要請工程師寫好看的頁面?  
-A:![](https://i.imgur.com/afA0fr9.png)
+A:![](https://i.imgur.com/afA0fr9.png =x300)
 
 
 ---
