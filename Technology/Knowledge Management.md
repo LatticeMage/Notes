@@ -38,6 +38,7 @@
 * 但是github.io只吃README.md
 * 所以需要一個轉換器
   * 此[Converter](https://github.com/QuantumNecro/QuantumNecro.github.io/tree/main/Converter)需要安裝python
+  * 使用前**一定要備份**
 
 ## 結論
 Q: 既然都要轉換，為什麼不要用 build tool 將 markdown 轉成 html?  
