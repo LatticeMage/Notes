@@ -10,7 +10,7 @@ Reference:
   * Need to open source code
   * viral effect
 * MIT
-  * Able to be close
+  * source can be close
 
 
 ### Problem: Android
@@ -20,16 +20,16 @@ LGPL
 https://zh.wikipedia.org/wiki/%E5%89%B5%E7%94%A8CC
 
 * BY (Attribution)
-  * like MIT
-
+  * like Apache
 * SA (ShareAlike)
   * like GPL
-
 * CC0
   * [WTFPL](https://zh.wikipedia.org/wiki/WTFPL)
 
-https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/tree/master/Setting/Appendix/Tools
+https://github.com/PosetMage/PosetMage.github.io/tree/master/Setting/Appendix/Tools
 
+## multi-lisence
+SPDX-License-Identifier
 
 ---
 tags:

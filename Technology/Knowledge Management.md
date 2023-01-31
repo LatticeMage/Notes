@@ -10,6 +10,12 @@
   * 可以使用ChatGPT幫忙分類
 * 網狀知識系統符合人腦思考方式 - 神經網路
 
+## 理論
+* ★★★★★ [我如何用第二大脑“记住”所有事情？｜老石谈芯](https://youtu.be/pjPgmaHIDAE)
+* ★★★☆☆  [学习方法 - 如何构造高效的知识管理系统｜为什么学了就忘｜把书读透的读书方法｜高效学习方法](https://youtu.be/5Yn4-aSggI0)
+* ★★★☆☆ [如何聪明地做笔记｜提高写作、学习和思考能力｜Zettelkasten 卡片盒笔记法｜使用DEVONthink，Roamresearch，Obsidian进行实践｜打造自己的成长知识库](https://youtu.be/2VurHJtWKtk)
+
+
 ## 可以做為知識管理的工具
   * Atlassian的Confluence
   * HackMD
@@ -50,5 +56,7 @@ tags:
   - [[Obsidian]]
   - [[Markdown]]
   - [[Github]]
+  - [[老石谈芯]]
+  - [[回到Axton]]
   - [[]]
 ---

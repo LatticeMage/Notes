@@ -5,7 +5,7 @@
 * [【亦】学习神器！正经人谁用飞书办公啊](https://www.youtube.com/watch?v=mXkzYxoo2Z8)
 * [Google員工都用什麼提升效率? 一天只要工作4小時 ! 分享我在Google工作學到的菁英工作法！【工程師#4】](https://www.youtube.com/watch?v=_OXKszvJE00)
 * [碎片化閱讀+筆記整理的“神仙”軟件！｜第二大腦工作流App分享](https://www.youtube.com/watch?v=peJKnbkJaF8)
-* [我如何用第二大脑“记住”所有事情？ ｜老石谈芯](https://youtu.be/pjPgmaHIDAE)
+
 
 ## 基本套件組
 * 任務/時間管理工具
