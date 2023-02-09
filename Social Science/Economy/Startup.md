@@ -6,7 +6,7 @@ So, research deep and all-in one good item will have most EV.
 
 To face risk, usually need to use redunt system to deal with fail case.
 however if put too much resource on redundancy will loss the EV.
-for example, 60% on redundancy is too much. In usual, 5% 避險 is common ratio.
+for example, 60% on redundancy is too much. In usual, 5% Hedge is a common ratio.
 
 For life, to be a risk-taker is impoartant, but it will cause fail.
 However, we need to try many times to make EV generate the result.
