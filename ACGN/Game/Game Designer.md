@@ -38,7 +38,7 @@
 * 數值企劃(Game Balancing)
   * 參考[數值企劃](../Designer/Game%20Balancing/)
 * 關卡企劃(Level Design)
-  * 參考[數值企劃](../Designer/Level%20Design/)
+  * 參考[關卡企劃](../Designer/Level%20Design/)
 * 技術策劃(Technical Designer)
   * 很懂理工技術的策劃，能看出一個遊戲是怎麼用程式實作出來的，比如背後所使用的物理公式
   * 推薦文章[什么特质会让你立刻觉得一个游戏技术策划（Technical Designer）很靠谱？](https://www.zhihu.com/question/534524335)
