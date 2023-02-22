@@ -1,7 +1,7 @@
 [閒聊] 期望值這件事 04 - 飛輪效應
     Business Model.md
 
-
+* [QuantumNecro] Mental Toughness
 * [QuantumNecro] 對面AI時代
   * 
 * [QuantumNecro] Overfitting 奧卡姆剃刀法則
