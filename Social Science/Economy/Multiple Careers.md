@@ -1,6 +1,6 @@
 # Multiple Careers
 
-## 成果導向
+## Iku老師
 * ★★★★☆[想抱怨的員工都要看！我離職台灣公司真正原因！【Iku老師】](https://www.youtube.com/watch?v=iKBGfLlRnxg)
 * ★★★★☆[這些不了解，你副業賺不到錢是應該的！Iku老師](https://www.youtube.com/watch?v=ToX4aJnoiZM)
 * ★★★★★[想要上課投資自己之前，你應該先這麼做！【Iku老師】](https://youtu.be/gH92fzkvHZM)
@@ -10,14 +10,20 @@
 
 ## 斜槓
 * ★★★☆☆[展開斜槓人生，關鍵是克服這3個障礙｜斜槓的50道難題 【好葉】](https://youtu.be/zoQNV_ou6jM)
-* ★★☆☆☆[斜槓副業提升收入該怎麼做？打造副業收入藍圖，幫你找到最適合的賺錢副業！｜Ms. Selena](https://youtu.be/A1_1wTyM39k)
+
+## 陳寗
+* ★★★★★[小資族怎麼精進自己？最該投資項目的是「興趣」，還能靠它賺錢！【CC字幕＋4K】](https://youtu.be/pmF7Pa2AuJk)
+* ★★★★★[別瞧不起冷門興趣！熱門反而難賺到錢？怎麼切入與經營是關鍵！【CC字幕＋4K】](https://youtu.be/pf2bL8_ihCI)
+
+## 窮奢極欲
+* ★★★★☆ [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://youtu.be/c7T41eCmmVk)
 
 ---
 tags:
   - [[Economics]]
   - [[【官方】Iku老師的房間]]
   - [[Better Leaf 好葉]]
-  - [[Yale Chen (陳頁真)]]
-  - [[Ms.Selena]]
+  - [[陳寗 NingSelect]]
+  - [[窮奢極欲]]
   - [[]]
 ---
