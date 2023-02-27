@@ -13,7 +13,7 @@
 
 ## Extra
 * ★☆☆☆☆ [厲害的人不告訴你的祕技：用鋼琴的右踏板控制共振！](https://youtu.be/nLN8Gz9MJJs)
-
+* ★★★☆☆ [一次搞懂「泛音列」！](https://www.youtube.com/watch?v=0iJmDhNocaQ)
 ---
 tags:
   - [[Music Theory]]
