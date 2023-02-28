@@ -1,4 +1,4 @@
-# Multiple Careers
+# Outcome-oriented
 
 ## Iku老師
 * ★★★★☆[想抱怨的員工都要看！我離職台灣公司真正原因！【Iku老師】](https://www.youtube.com/watch?v=iKBGfLlRnxg)

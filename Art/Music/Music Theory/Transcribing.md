@@ -4,7 +4,7 @@
 * Track Spilter by AI
 * web downloader
 * spectral analysis
-* beat counter
+* beat counter, tap bpm
 * (instrument)
 
 ## Reference

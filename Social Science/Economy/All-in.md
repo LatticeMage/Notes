@@ -1,4 +1,4 @@
-# Startup
+# All-in
 
 in startup or investing theory, all-in is important,
 because most of new business will fail, seprate resource to multi event just make major part loss and become zero.
@@ -21,10 +21,10 @@ After training these and final to apply in life is better.
 
 ---
 tags:
-  - [[All-in]]
+  - [[Startup]]
   - [[Hedging]]
   - [[Risk-taking]]
-  - [[Mental toughness]]
+  - [[Mental Toughness]]
   - [[Calculated risk-taking / strategic risk-taking ]]
   - [[Entrepreneurship]]
   - [[Economics]]
