@@ -16,7 +16,7 @@
 * ★★★★☆ [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://youtu.be/c7T41eCmmVk)
 
 ## 思維咖啡
-★★★★☆ [兩個可以拯救生活的創業家思維](https://youtu.be/5yVMIIhRWWA)
+* ★★★★☆ [兩個可以拯救生活的創業家思維](https://youtu.be/5yVMIIhRWWA)
 
 ---
 tags:
