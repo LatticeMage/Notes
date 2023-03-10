@@ -1,6 +1,6 @@
-git config --local user.name "QuantumNecro"
-git config --local user.email "QuantumNecro@users.noreply.github.com"
-git remote set-url origin git@AAL:QuantumNecro/Knowledge.git
+git config --local user.name "LatticeMage"
+git config --local user.email "LatticeMage@users.noreply.github.com"
+git remote set-url origin git@LM:LatticeMage/Knowledge.git
 
 git pull
 git add .
@@ -8,6 +8,6 @@ git commit -m "upload"
 git push
 
 
-cd ../QuantumNecro.github.io/
+cd ../LatticeMage.github.io/
 ./upload.ps1
 cd ../Knowledge
