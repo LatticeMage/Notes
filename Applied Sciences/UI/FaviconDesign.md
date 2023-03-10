@@ -1,0 +1,29 @@
+# [設計] favicon圖樣
+
+圖樣可大可小，基本上還是建議用512x512去畫圖，然後使用軟體轉換成16x16  
+不過好壞真的差很多
+
+最慘的是太過複雜的圖案在16x16看不清楚：(本人心中30分)  
+![](./IconSamples/30.png)
+
+可能圖案設計不錯，但是透明導致被軟體底色吃掉：(本人心中40分)  
+![](./IconSamples/40.png)
+
+純文字圖樣雖然很好懂，不過有機會撞臉：(本人心中60分)  
+![](./IconSamples/60.png)
+
+還不錯的圖樣，是有意圖的設計，不過稍嫌複雜：(本人心中80分)  
+![](./IconSamples/80.png)
+
+好的設計顏色不複雜，在16x16下能輕易得保持圖樣清晰度，最好是連漸層色都不要有：(本人心中100分)  
+![](./IconSamples/100.png)
+
+所以Partially Ordered Magic採用可單色的設計  
+http://posetmage.com/SettingBook/Setting/Appendix/PosetMage/
+
+---
+tags:
+  - [[UI/UX]]
+  - [[favicon]]
+
+---
