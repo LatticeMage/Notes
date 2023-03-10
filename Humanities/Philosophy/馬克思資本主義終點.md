@@ -32,7 +32,8 @@ ETF就有點這種味道 全世界都在買會賺錢的公司股票領股利
 ---
 tags:
   - [[Philosophy]]
-
+  - [[Karl Marx]]
+  - [[Friedrich Nietzsche]]
 
 ---
 

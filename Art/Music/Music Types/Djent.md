@@ -8,6 +8,9 @@
   * M∆CHINE
 * VEIL OF MAYA
   * Aeris 
+* Sithu Aye
+  * Senpai EP II: The Noticing 「先輩EPII：ザ・ノーティシング」 
+
 
 ## Youtuber
 * Steve Terreberry
