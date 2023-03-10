@@ -19,6 +19,7 @@ https://twitter.com/PR0GRAMMERHUM0R/status/1630070248555569154
 tags:
   - [[in-joke]]
   - [[Engineering]]
-
+  - [[Dunning–Kruger effect]]
+  
 ---
 
