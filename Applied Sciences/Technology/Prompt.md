@@ -7,12 +7,13 @@
 
 ## Videos
 * ★★★★★ [ChatGPT给的机会, 你能抓住吗? (自然语言编程)](https://youtu.be/KoT08Kno10A)
-* ★★★☆☆ [【空罐王】高級詠唱術! ?不用DISCORD畫圖的方法 #stablediffusion](https://youtu.be/hOTKiuA61v0)
+* ★★★☆☆ [【空罐王】教你如何使用DISCORD畫圖 #midjourney](https://youtu.be/uRapWGYNiBo)
 
 ---
 tags:
   - [[Technology]]
   - [[AI]]
   - [[MoneyXYZ]]
+  - [[空罐王CankingSketch]]
 
 ---
