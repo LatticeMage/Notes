@@ -1,6 +1,7 @@
 # Prompt
 
 ## Websites
+* ★★★☆☆[Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)
 * ★☆☆☆☆ [運用「深津式泛用Prompt」讓你的ChatGPT變聰明](https://h9856.gameqb.net/2023/03/01/fukatsu-prompt/)
 * ★★★★★ [🧠 Awesome ChatGPT Prompts](https://prompts.chat/)
 * ★★★★★ [PromptHero](https://prompthero.com/)
