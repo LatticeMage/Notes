@@ -24,6 +24,6 @@
 ---
 tags:  
   - [[Philosophy]]
-  - [[Friedrich Nietzsche]]
+  - [[Nietzsche]]
 
 ---
