@@ -16,5 +16,5 @@ https://www.youtube.com/watch?v=DcN0kAxFF8s
 ---
 tags:
   - [[Music Theory]]
-  - [[]]
+  
 ---

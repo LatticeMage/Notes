@@ -130,5 +130,5 @@ That is, a game can say it is multiply features.
 ---
 tags:
   - [[Game]]
-  - [[]]
+  
 ---

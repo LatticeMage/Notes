@@ -12,5 +12,5 @@ https://en.wikipedia.org/wiki/Harmonic_series_(music)
 tags:
   - [[Music Theory]]
   - [[NiceChord+ (好和弦+)]]
-  - [[]]
+  
 ---

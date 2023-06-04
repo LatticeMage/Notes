@@ -16,5 +16,5 @@
 ---
 tags:
   - [[Game Designer]]
-  - [[]]
+  
 ---

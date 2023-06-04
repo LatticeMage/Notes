@@ -28,5 +28,5 @@ Overall, deep learning and synthesizing abilities are valuable skills that can h
 ---
 tags:
   - [[Psychology]]
-  - [[]]
+  
 ---

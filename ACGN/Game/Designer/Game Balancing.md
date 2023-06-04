@@ -24,5 +24,5 @@ Roguelike類、卡牌類遊戲，很需要強大的數值企劃去做遊戲平�
 ---
 tags:
   - [[Game Designer]]
-  - [[]]
+  
 ---

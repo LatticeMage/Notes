@@ -62,6 +62,6 @@ tags:
   - [[Philosophy]]
   - [[History]]
   - [[Learned Helplessness]]
-  - [[]]
+  
 ---
 

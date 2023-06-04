@@ -62,5 +62,5 @@ what is XXX belong to ?
 tags:
   - [[Technology]]
   - [[AI]]
-  - [[]]
+  
 ---

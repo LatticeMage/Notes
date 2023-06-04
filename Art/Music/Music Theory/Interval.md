@@ -28,5 +28,5 @@ Semitone|intervals|intervals
 tags:
   - [[Music Theory]]
   - [[NiceChord+ (好和弦+)]]
-  - [[]]
+  
 ---

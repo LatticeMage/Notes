@@ -5,7 +5,7 @@ tags:
   - [[Perform]]
   - [[Instrument]]
   - [[Metal]]
-  - [[]]
+  
 ---
 
 ## Guitar
@@ -34,7 +34,7 @@ tags:
   - [[Luca Stricagnoli]]
   - [[Elena Yerevan]]
   - [[DEPAPEPE Official YouTube Channel]]
-  - [[]]
+  
 ---
 
 ## Instrument
@@ -42,7 +42,7 @@ tags:
 tags:
   - [[董舜文的頻道]]
   - [[Animenz Piano Sheets]]
-  - [[]]
+  
 ---
 
 ## Metal
@@ -54,5 +54,5 @@ tags:
   - [[I Built The Sky]]
   - [[Andromida Official]]
   - [[DISMENTOPIA Taiwan]]
-  - [[]]
+  
 ---

@@ -62,5 +62,5 @@ NPC裝備是隨機生成，生成時機為第一次進入村莊
 tags:
   - [[Rouguelike]]
   - [[Open World]]
-  - [[]]
+  
 ---

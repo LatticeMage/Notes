@@ -9,5 +9,5 @@
 tags:
   - [[Drawing]]
   - [[Krenz's Artwork]]
-  - [[]]
+  
 ---

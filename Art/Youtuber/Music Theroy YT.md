@@ -3,7 +3,7 @@
 ---
 tags:
   - [[Music Theroy]]
-  - [[]]
+  
 ---
 
 ## Music Theroy
@@ -18,5 +18,5 @@ tags:
   - [[理科生讲音乐]]
   - [[Jacob Collier]]
   - [[Rick Beato]]
-  - [[]]
+  
 ---

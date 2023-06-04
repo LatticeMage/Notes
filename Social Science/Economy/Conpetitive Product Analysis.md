@@ -32,5 +32,5 @@ By following these steps, you can write a thorough and informative competitive p
 tags:
   - [[Economics]]
   - [[AI]]
-  - [[]]
+  
 ---

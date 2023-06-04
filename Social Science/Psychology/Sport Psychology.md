@@ -8,5 +8,5 @@
 ---
 tags:
   - [[Psychology]]
-  - [[]]
+  
 ---

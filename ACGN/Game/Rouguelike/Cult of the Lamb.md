@@ -73,5 +73,5 @@
 tags:
   - [[Rouguelike]]
   - [[RPG]]
-  - [[]]
+  
 ---

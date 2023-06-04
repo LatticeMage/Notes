@@ -35,7 +35,7 @@ folder_path = './'
 pattern = r'- \[\[\]\]'
 
 # Specify the replacement string
-replacement = '\n'
+replacement = ''
 
 # Call the function to perform the parsing
 parse_files(folder_path, pattern, replacement)

@@ -29,5 +29,5 @@ tags:
   - [[Entrepreneurship]]
   - [[Economics]]
   - [[Sociology]]
-  - [[]]
+  
 ---

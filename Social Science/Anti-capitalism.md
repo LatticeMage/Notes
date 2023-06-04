@@ -22,5 +22,5 @@ In conclusion, breaking free from the constraints of capitalism and embracing a 
 tags:
   - [[MoneyXYZ]]
   - [[超級歪 SuperY]]
-  - [[]]
+  
 ---

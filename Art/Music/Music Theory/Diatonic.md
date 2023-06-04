@@ -43,5 +43,5 @@ tags:
   - [[Chord Notation]]
   - [[NiceChord+ (好和弦+)]]
   - [[Wen吉他誌]]
-  - [[]]
+  
 ---
