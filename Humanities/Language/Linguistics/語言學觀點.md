@@ -6,6 +6,8 @@
 * [如何停止翻譯？用英文思考的真相 🧠 語言學觀點分析 // Chen Lily](https://youtu.be/WxYnyqgO77M)
 
 
+* [如何同時學多種語言🤔 How to learn multiple languages at the same time](https://youtu.be/7AY6N-ALUNw)
+
 
 ---
 tags:
