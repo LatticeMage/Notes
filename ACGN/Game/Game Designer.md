@@ -11,7 +11,7 @@
 
 ## 商業相關
 * 營運企劃(Operator)
-  * 參考[營運企劃](../Designer/Operator/)
+  * 參考[營運企劃](./Designer/Operator/)
 
 ## 生產製作相關職位
 * 遊戲製作人 (Game Producer) ：負責監督整個遊戲製作過程，確保遊戲在預定時間內完成，並符合預定的規格和質量標準。
@@ -32,13 +32,13 @@
 
 ## 設計相關職位
 * 遊戲編劇(Game Writer)
-  * 參考[遊戲編劇](../Designer/Game%20Writer/)
+  * 參考[遊戲編劇](./Designer/Game%20Writer/)
 * 系統企劃(System Designer)
-  * 參考[系統企劃](../Designer/System%20Designer/)
+  * 參考[系統企劃](./Designer/System%20Designer/)
 * 數值企劃(Game Balancing)
-  * 參考[數值企劃](../Designer/Game%20Balancing/)
+  * 參考[數值企劃](./Designer/Game%20Balancing/)
 * 關卡企劃(Level Design)
-  * 參考[關卡企劃](../Designer/Level%20Design/)
+  * 參考[關卡企劃](./Designer/Level%20Design/)
 * 技術策劃(Technical Designer)
   * 很懂理工技術的策劃，能看出一個遊戲是怎麼用程式實作出來的，比如背後所使用的物理公式
   * 推薦文章[什么特质会让你立刻觉得一个游戏技术策划（Technical Designer）很靠谱？](https://www.zhihu.com/question/534524335)
