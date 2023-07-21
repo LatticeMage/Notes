@@ -1,0 +1,14 @@
+help me assign a good path
+
+here are my old folders path
+ACGN\Game\AVG
+ACGN\Game\Designer
+Applied Sciences\Technology\Programming
+Applied Sciences\UI
+Art\Music\Drum
+Humanities\Language\English\Vocabulary
+Others\Military
+Social Science\Economy
+Social Science\Law
+
+help me put this article to better hierarchy, if there is no proper folder, create it
