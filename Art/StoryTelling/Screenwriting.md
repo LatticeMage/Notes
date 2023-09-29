@@ -1,5 +1,9 @@
 # Screenwriting
 
+talk to AI:
+give me Blake Snyder Beat Sheet (BS2) in 3 act in detail
+
+
 
 ## 先讓英雄救貓咪
 布莱克·史奈德架構表
