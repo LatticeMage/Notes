@@ -2,4 +2,4 @@
 layout: directory
 ---
 
-# Rouguelike
+# Game
