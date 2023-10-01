@@ -1,4 +1,14 @@
-./git_upload.bat
-cd ../LatticeMage.github.io/
-./upload.ps1
-cd ../Knowledge
+cd _shared
+./upload.bat
+cd ../
+
+git config --local user.name "LatticeMage"
+git config --local user.email "LatticeMage@gmail.com"
+git remote set-url origin git@LM:LatticeMage/Knowledge.git
+
+git submodule update --recursive --remote
+
+git pull
+git add .
+git commit -m "upload"
+git push
