@@ -39,8 +39,6 @@ collections:
   directories:
     output: true
 
-permalink: /:title/
-
 kramdown:
   parse_block_html: true
 
