@@ -9,6 +9,7 @@ You need to use both them if you use this work.
 
 ## 
 ```
-
+$ gem install bundler
+$ bundle install
 $ bundle exec jekyll serve --port 4001
 ```
