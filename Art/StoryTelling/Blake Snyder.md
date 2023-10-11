@@ -1,10 +1,6 @@
-# Screenwriting
+# Blake Snyder
 
-talk to AI:
-give me Blake Snyder Beat Sheet (BS2) in 3 act in detail
-
-
-## Blake Snyder's "Save the Cat!" beat sheet:
+## Blake Snyder's "Save the Cat!" Beat Sheet in 3 act:
 
 
 **Act I:**  
