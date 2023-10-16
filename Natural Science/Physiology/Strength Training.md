@@ -81,7 +81,7 @@ tags:
   - [[Tao]]
   - [[白天手術房晚上健身房]]
   - [[營養師Ricky's Time]]
-  - [[Sport Psychology]]
+  - [[Psychology of Competition]]
   - [[SBD Taiwan 邱個]]
   
 ---

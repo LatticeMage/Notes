@@ -23,7 +23,7 @@
 
 ---
 tags:
-  - [[Economy]]
+  - [[Economics]]
   - [[講日文的台灣女生 Tiffany]]
   - [[Shawna 手写的小日常]]
   - [[Ryan Wu]]

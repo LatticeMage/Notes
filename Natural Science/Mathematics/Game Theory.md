@@ -24,7 +24,7 @@ tags:
   - [[Mathematics]]
   - [[Economics]]
   - [[Mental Toughness]]
-  - [[Sport Psychology]]
+  - [[Psychology of Competition]]
   - [[李永乐老师]]
   - [[Nash Equilibrium]]
   

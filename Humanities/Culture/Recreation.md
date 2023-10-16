@@ -2,4 +2,4 @@
 layout: directory
 ---
 
-# Economy
+# Recreation
