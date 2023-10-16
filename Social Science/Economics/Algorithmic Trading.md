@@ -1,5 +1,6 @@
 # Algorithmic Trading
 
+##
 
 **Technical Analysis Strategies**:
 1.  Trend Following Strategies
@@ -40,6 +41,10 @@
 3.  Order-based Strategies
 4.  Dollar Cost Averaging (DCA)
 
+
+
+## Reference
+[常见的十大量化投资策略（附源码）](https://zhuanlan.zhihu.com/p/144243002)
 
 
 ---
