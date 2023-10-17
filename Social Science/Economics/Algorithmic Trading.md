@@ -3,6 +3,8 @@
 ## Risk
 ![](https://pic1.zhimg.com/80/v2-ac8c472c50a945efcfdce9c2a688615c_720w.webp)
 
+## [Technical analysis](https://en.wikipedia.org/wiki/Technical_analysis)
+
 ## Methods
 
 **Technical Analysis Strategies**:
