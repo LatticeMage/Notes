@@ -1,6 +1,9 @@
 # Algorithmic Trading
 
-##
+## Risk
+![](https://pic1.zhimg.com/80/v2-ac8c472c50a945efcfdce9c2a688615c_720w.webp)
+
+## Methods
 
 **Technical Analysis Strategies**:
 1.  Trend Following Strategies
@@ -45,7 +48,7 @@
 
 ## Reference
 [常见的十大量化投资策略（附源码）](https://zhuanlan.zhihu.com/p/144243002)
-
+[经典策略 - 掘金量化](https://www.myquant.cn/docs/python_strategyies/)
 
 ---
 tags:
