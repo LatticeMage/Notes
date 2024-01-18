@@ -2,6 +2,6 @@
 layout: directory
 ---
 
-wiki page for LatticeMage or PosetMage
+my notes for LatticeMage or PosetMage
 
 
