@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: notes
+title: notes of LatticeMage
 email: latticemage@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    "LatticeMage notes"
-baseurl: "notes" # the subpath of your site, e.g. /blog
-url: "https://lattice.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://notes.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 repository: latticemage/notes
