@@ -16,5 +16,6 @@ Lisa Feldman Barrett將情緒解釋為二維的光譜[Cultivating Wisdom: The Po
 tags:
   - [[Biology]]
   - [[Psychology]]
-  
+  - [[Neuroscience]]
+
 ---
