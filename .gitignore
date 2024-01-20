@@ -6,3 +6,5 @@ vendor
 .vs/
 *.zip
 .obsidian/
+
+Gemfile.lock

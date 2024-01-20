@@ -3,7 +3,7 @@
 ---
 tags:
   - [[English]]
-  - [[Game]]
+  - [[ACGN/index]]
 ---
 
   * abrupt

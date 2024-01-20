@@ -1,5 +1,0 @@
----
-layout: directory
----
-
-# Music Types

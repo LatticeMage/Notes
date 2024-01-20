@@ -9,7 +9,7 @@ https://howlongtobeat.com/
 
 ---
 tags:
-  - [[Game]]
+  - [[ACGN/index]]
   - [[Steam]]
 
 

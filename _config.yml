@@ -18,21 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: notes of LatticeMage
+title: Notes from LatticeMage
 email: latticemage@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-   "LatticeMage notes"
-url: "https://notes.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: "https://lattice.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Notes" # the subpath of your site, e.g. /blog
 
 
-repository: latticemage/notes
+repository: latticemage/Notes
 
 site_favicon: _shared/favicon.ico
 includes_dir: _shared/_includes
 layouts_dir: _shared/_layouts
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+
+#order
+header_pages:
+  - About.md
 
 collections:
   directories:
@@ -46,7 +53,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"
+      layout: "notes"
 
 plugins:
   - jekyll-external-links
