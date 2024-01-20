@@ -27,7 +27,6 @@ baseurl: "/Notes" # the subpath of your site, e.g. /blog
 
 repository: latticemage/Notes
 
-site_favicon: _shared/favicon.ico
 includes_dir: _shared/_includes
 layouts_dir: _shared/_layouts
 
