@@ -1,19 +1,18 @@
 # Traditional AI
 
-狀態機
+State Machine
 
 Fuzzy Logic
 
-位能/動能
+Potential Energy/Kinetic Energy
 
 A* Search
 
 Minimax Tree
 
-機率、貝葉斯網路
+Probability, Bayesian Networks
 
-基因演算法
-
+Genetic Algorithm
 
 
 ---

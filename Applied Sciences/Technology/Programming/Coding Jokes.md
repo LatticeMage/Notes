@@ -1,7 +1,7 @@
-# 資工笑話
+# Coding Jokes
 
 ## 
-Bogosort 猴子排序法
+Bogosort, Monkey sort
 
 
 ##

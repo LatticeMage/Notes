@@ -4,7 +4,8 @@
 《腦筋急轉彎》（Inside Out）
 
 ## 
-克蘇魯神話
+* 克蘇魯神話 人類最原始的恐懼，是對未知的恐懼(X)
+* 情緒是社交語言(O)
 
 ##  
 Lisa Feldman Barrett將情緒解釋為二維的光譜[Cultivating Wisdom: The Power Of Mood｜Lisa Feldman Barrett｜TEDxCambridge](https://youtu.be/ZYAEh3T5a80)
