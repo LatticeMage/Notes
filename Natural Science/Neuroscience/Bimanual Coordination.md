@@ -1,10 +1,5 @@
 # Bimanual Coordination
 
-Frontal Lobe
-
-Myelinization
-
-## AI生成
 Multitasking is often seen as a desirable skill, as it can allow us to complete more tasks in less time and potentially improve our productivity. However, in reality, multitasking can often be counterproductive and lead to errors, reduced efficiency, and increased stress.
 
 Our brains are not designed to multitask effectively, and when we try to divide our attention between multiple tasks, we often end up switching back and forth between tasks, which can reduce our overall performance. Instead of multitasking, it is generally more effective to focus on one task at a time and complete it to the best of our ability.
