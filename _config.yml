@@ -41,10 +41,6 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
 
-#order
-header_pages:
-  - About.md
-
 collections:
   directories:
     output: true
