@@ -55,7 +55,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "notes"
+      layout: "page/note/basic"
 
 plugins:
   - jekyll-external-links

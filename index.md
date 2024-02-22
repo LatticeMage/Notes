@@ -1,6 +1,4 @@
----
-layout: notes
----
+
 
 * [Natural Science](./Natural%20Science)
 * [Applied Sciences](./Applied%20Sciences)
