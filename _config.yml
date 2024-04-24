@@ -21,7 +21,6 @@
 title: LatticeMage
 email: latticemage@gmail.com
 url: https://lattice.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
-slogan: ΔS > 0
 
 description: Notes
 baseurl: /Notes # the subpath of your site, e.g. /blog
