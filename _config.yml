@@ -26,35 +26,35 @@ description: Notes
 baseurl: /Notes # the subpath of your site, e.g. /blog
 repository: latticemage/Notes
 
-social:
-  - platform: envelope
-    url: mailto:lattice@posetmage.com
-  - platform: youtube
-    url: https://youtube.com/@latticemage
-  - platform: facebook
-    url: https://facebook.com/latticemage
-  - platform: twitter
-    url: https://twitter.com/latticemage
-
-# Build settings
-remote_theme: jekyll/minima
-
-minima:
-  skin: dark
-
-collections:
-  directories:
-    output: true
-
-kramdown:
-  parse_block_html: true
-
 defaults:
   -
     scope:
       path: ""
     values:
       layout: "page/note/basic"
+
+exclude:
+  - "*.mm.md"
+
+kramdown:
+  parse_block_html: true
+  
+collections:
+  directories:
+    output: true
+
+
+# Build settings
+remote_theme: jekyll/minima
+
+exclude:
+  - _includes/.git/
+  - _layouts/.git/
+  - _layouts/page/.git/
+  - assets/.git/
+
+minima:
+  skin: dark
 
 plugins:
   - jekyll-external-links
