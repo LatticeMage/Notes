@@ -61,21 +61,13 @@
 
 <div class="slide">
 
-## Vertical Slice
-- **Definition**
-    - A vertical slice is a fully-functional portion of your product that includes a cross-section of all key features.
-- **Purpose**
-    - To demonstrate a working prototype to stakeholders.
-    - To validate technical and design choices.
-- **Components**
-    - **Core Features:** Ensure the slice includes the main features of your product.
-    - **UI/UX Design:** Include a representative user interface and experience.
-    - **Backend Functionality:** Implement essential backend processes.
-    - **Integration:** Show how different components interact seamlessly.
-- **Execution**
-    - Define a clear scope for the vertical slice.
-    - Assign tasks to team members and set deadlines.
-    - Review and iterate based on feedback from stakeholders.
+## Agile Development
 
+* MVP
+  * ![](MVP.webp)
+* Spiral Model
+  * ![](https://www.bdtask.com/blog/assets/plugins/ckfinder/core/connector/php/uploads/images/xwhat,P20is,P20spiral,P20model,P20for,P20software,P20development.jpg.pagespeed.ic.vL7MBvEhah.webp)
+* Vertical Slicing
+  * ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Vertical_slice.png)
 
 </div>
