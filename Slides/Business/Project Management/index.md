@@ -22,8 +22,8 @@
 * Setting Plans and Goals
 * Documentation
 
-<img src="Trapezoid.svg" width="300">
-<img src="Circles.svg" width="300">
+<img src="Trapezoid.svg" width="250">
+<img src="Circles.svg" width="250">
 
 </div>
 
