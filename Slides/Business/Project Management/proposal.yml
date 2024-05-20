@@ -1,0 +1,46 @@
+Version: "1.0.1"
+
+Author: "PosetMage"
+
+Product_Title: "SEO Writer AI"
+
+Product_Type: "AI Writer for SEO Optimization"
+
+Purpose: "An AI agent designed to help writers create SEO-optimized content effortlessly and efficiently. It aims to enhance the quality of content and improve search engine rankings."
+
+Abstract: "SEO Writer AI is an intelligent writing assistant that generates high-quality, SEO-optimized content based on given keywords and topics. It assists writers by providing real-time suggestions, keyword analysis, and content structure optimization."
+
+Usage: "◆ Input target keywords and topics<br>
+◆ Receive real-time suggestions and improvements<br>
+◆ Automatically generate content outlines<br>
+◆ Analyze and optimize existing content<br>"
+
+TA_Platform: "◆ Content creators and SEO professionals<br>
+◆ Bloggers and digital marketers<br>
+◆ Platforms: Web-based application, mobile app"
+
+Features: "◆ Real-time keyword suggestions<br>
+◆ Automated content generation<br>
+◆ SEO analysis and optimization<br>
+◆ Content structure recommendations"
+
+Examples: "◆ A blogger using the AI to generate blog posts<br>
+◆ A digital marketer optimizing web pages for better SEO<br>
+◆ An SEO professional analyzing content for improvements"
+
+Competitive: "◆ Jasper AI<br>
+◆ Writesonic<br>
+◆ Copy.ai<br>
+"
+
+Business_Model: "◆ Subscription-based model<br>
+◆ Freemium with premium features<br>
+◆ Enterprise solutions for large teams"
+
+Product_Image1: "<img src=\"./seo_writer_screenshot1.webp\">"
+
+Product_Image2: "<img src=\"./seo_writer_screenshot2.webp\">"
+
+Pricing: "◆ Basic: $29/month<br>
+◆ Pro: $79/month<br>
+◆ Enterprise: Custom pricing"

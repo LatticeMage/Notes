@@ -29,9 +29,20 @@ repository: latticemage/Notes
 defaults:
   -
     scope:
-      path: ""
+      path: "Articles"
     values:
       layout: "page/note/basic"
+  -
+    scope:
+      path: "Slides"
+    values:
+      layout: "page/note/slides"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "base"
+
 
 exclude:
   - "*.mm.md"

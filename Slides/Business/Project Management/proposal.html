@@ -1,0 +1,91 @@
+<style>
+  td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  .align-left {
+    text-align: left;
+  }
+  .large {
+    font-size: 3em;
+    font-weight: bold;
+    background-color: rgb(145, 235, 127);
+  }
+  .center-text {
+    text-align: center;
+  }
+  .bold-text {
+    font-weight: bold;
+    background-color: rgb(183, 252, 252);
+  }
+  .table-cell {
+    width: 100%; /* Ensure the table cell takes up the full width */
+    height: auto; /* Let the image height adjust automatically */
+  }
+  
+  .table-cell img {
+    max-width: 100%; /* Make the image fit within the table cell */
+    height: auto; /* Let the image height adjust automatically */
+  }
+
+  .table-container {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+
+<div class="table-container">
+<table style="width: 720px; table-layout: fixed;">
+  <tr style="height: 20px"></tr>
+  <tr>
+    <td colspan="2" rowspan="2" class="large">{{Product_Title}}</td>
+    <td class="bold-text">產品類型</td>    
+  </tr>
+  <tr>
+    <td>{{Product_Type}}</td>
+  </tr>
+  <tr>
+    <td style="text-align: right;">作者：</td>
+    <td style="text-align: left;">{{Author}}</td>
+    <td>ver: {{Version}}</td>    
+  </tr>
+  <tr>
+    <td colspan="2" class="bold-text">產品目的</td>
+    <td class="bold-text">產品簡介</td>
+  </tr>
+  <tr>
+    <td colspan="2">{{Purpose}}</td>
+    <td>{{Abstract}}</td>
+  </tr>
+  <tr>
+    <td class="bold-text">使用方式</td>
+    <td class="bold-text">產品特色</td>
+    <td class="bold-text">類似競品</td>
+  </tr>
+  <tr>
+    <td class="align-left">{{Usage}}</td>
+    <td class="align-left">{{Features}}</td>
+    <td class="align-left">{{Competitive}}</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="bold-text">使用範例</td>
+    <td class="bold-text">目標客群平台</td>
+  </tr>
+  <tr>
+    <td colspan="2">{{Examples}}</td>
+    <td class="align-left">{{TA_Platform}}</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="bold-text">商業模式</td>
+    <td class="bold-text">定價</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="table-cell">{{Business_Model}}</td>
+    <td rowspan="2">{{Pricing}}</td>
+  </tr>
+  <tr>
+    <td class="table-cell">{{Product_Image1}}</td>
+    <td class="table-cell">{{Product_Image2}}</td>
+  </tr>
+</table>
+</div>

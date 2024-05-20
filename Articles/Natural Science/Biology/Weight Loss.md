@@ -1,1 +1,1 @@
-# Debunking Common Myths about Healthy Eating and Weight Loss
+# Healthy Eating and Weight Loss
