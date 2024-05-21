@@ -71,3 +71,14 @@
   * ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Vertical_slice.png)
 
 </div>
+
+
+<div class="slide">
+
+## Startup
+* action more than plan
+* deep observe how user use product
+* high frequency feedback 
+* (modify One-Page Presentation)
+
+</div>
