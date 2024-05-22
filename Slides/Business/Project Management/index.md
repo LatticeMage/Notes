@@ -31,7 +31,7 @@
 <div class="slide">
 
 ## One-Page Presentation
-* [Proposal Template](./proposal.html)
+* [Proposal Template](proposal.html)
 * [Fill Data](./proposal.yml)
 * [Proposal Converter Tool](https://shinra.posetmage.com/GameDesign/Tool/Converter.html)
 

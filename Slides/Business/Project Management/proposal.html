@@ -1,91 +1,113 @@
-<style>
-  body {
-    background-color: rgb(53, 52, 52);
-    color: white;
-  }
-  td {
-    text-align: center;
-    vertical-align: middle;
-  }
-  .align-left {
-    text-align: left;
-  }
-  .large {
-    font-size: 3em;
-    font-weight: bold;
-    background-color: rgb(13, 65, 3);
-  }
-  .center-text {
-    text-align: center;
-  }
-  .bold-text {
-    font-weight: bold;
-    background-color: rgb(3, 26, 75);
-  }
-  .table-cell {
-    width: 100%; /* Ensure the table cell takes up the full width */
-    height: auto; /* Let the image height adjust automatically */
-  }
-  
-  .table-cell img {
-    max-width: 100%; /* Make the image fit within the table cell */
-    height: auto; /* Let the image height adjust automatically */
-  }
-
-  .table-container {
-    display: flex;
-    justify-content: center;
-  }
-</style>
-
-<div class="table-container">
-<table style="width: 720px; table-layout: fixed;">
-  <tr style="height: 20px"></tr>
-  <tr>
-    <td colspan="2" rowspan="2" class="large">{{Product_Title}}</td>
-    <td class="bold-text">Product Type</td>    
-  </tr>
-  <tr>
-    <td>{{Product_Type}}</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">Author:</td>
-    <td style="text-align: left;">{{Author}}</td>
-    <td>ver: {{Version}}</td>    
-  </tr>
-  <tr>
-    <td colspan="2" class="bold-text">Product Purpose</td>
-    <td class="bold-text">Product Abstract</td>
-  </tr>
-  <tr>
-    <td colspan="2">{{Purpose}}</td>
-    <td>{{Abstract}}</td>
-  </tr>
-  <tr>
-    <td class="bold-text">Usage Method</td>
-    <td class="bold-text">Product Features</td>
-    <td class="bold-text">Similar Competitors</td>
-  </tr>
-  <tr>
-    <td class="align-left">{{Usage}}</td>
-    <td class="align-left">{{Features}}</td>
-    <td class="align-left">{{Competitive}}</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="bold-text">Usage Examples</td>
-    <td class="bold-text">Target Audience</td>
-  </tr>
-  <tr>
-    <td colspan="2">{{Examples}}</td>
-    <td class="align-left">{{TA}}</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="bold-text">Business Model</td>
-    <td class="bold-text">Pricing</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="table-cell">{{Business_Model}}</td>
-    <td>{{Pricing}}</td>
-
-</table>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Information</title>
+  <style>
+    body {
+      background-color: rgb(53, 52, 52);
+      color: white;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+    .table-container {
+      display: flex;
+      justify-content: center;
+      padding: 5mm;
+      box-sizing: border-box;
+    }
+    table {
+      width: 100%;
+      max-width: 210mm; /* Adjusted for A4 size with some margin */
+      table-layout: fixed;
+      border-collapse: collapse;
+      margin: 0 auto;
+      background-color: rgb(30, 30, 30);
+    }
+    td {
+      text-align: center;
+      vertical-align: middle;
+      padding: 2mm;
+      border: 1px solid #444;
+    }
+    .align-left {
+      text-align: left;
+    }
+    .large {
+      font-size: 3em;
+      font-weight: bold;
+      background-color: rgb(13, 65, 3);
+    }
+    .center-text {
+      text-align: center;
+    }
+    .bold-text {
+      font-weight: bold;
+      font-size: 1.1em;
+      background-color: rgb(3, 26, 75);
+    }
+    .table-cell {
+      width: 100%; /* Ensure the table cell takes up the full width */
+      height: auto; /* Let the image height adjust automatically */
+    }
+    .table-cell img {
+      max-width: 100%; /* Make the image fit within the table cell */
+      height: auto; /* Let the image height adjust automatically */
+    }
+  </style>
+</head>
+<body>
+  <div class="table-container">
+    <table>
+      <tr style="height: 20px"></tr>
+      <tr>
+        <td colspan="2" rowspan="2" class="large">{{Product_Title}}</td>
+        <td class="bold-text">Team</td>    
+      </tr>
+      <tr>
+        <td>{{Team}}</td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: let;">{{Product_Type}}</td>
+        <td>ver: {{Version}}</td>    
+      </tr>
+      <tr>
+        <td colspan="2" class="bold-text">Product Purpose</td>
+        <td class="bold-text">Product Abstract</td>
+      </tr>
+      <tr>
+        <td colspan="2">{{Purpose}}</td>
+        <td>{{Abstract}}</td>
+      </tr>
+      <tr>
+        <td class="bold-text">Usage Method</td>
+        <td class="bold-text">Product Features</td>
+        <td class="bold-text">Similar Competitors</td>
+      </tr>
+      <tr>
+        <td class="align-left">{{Usage}}</td>
+        <td class="align-left">{{Features}}</td>
+        <td class="align-left">{{Competitive}}</td>
+      </tr>
+      <tr>
+        <td colspan="2" class="bold-text">Usage Examples</td>
+        <td class="bold-text">Target Audience</td>
+      </tr>
+      <tr>
+        <td colspan="2">{{Examples}}</td>
+        <td class="align-left">{{TA}}</td>
+      </tr>
+      <tr>
+        <td colspan="2" class="bold-text">Business Model</td>
+        <td class="bold-text">Pricing</td>
+      </tr>
+      <tr>
+        <td colspan="2" class="table-cell">{{Business_Model}}</td>
+        <td>{{Pricing}}</td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>
