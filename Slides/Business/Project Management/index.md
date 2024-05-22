@@ -35,6 +35,8 @@
 * [Fill Data](./proposal.yml)
 * [Proposal Converter Tool](https://shinra.posetmage.com/GameDesign/Tool/Converter.html)
 
+* [Business Model](./proposal)
+
 </div>
 
 <div class="slide">
@@ -81,6 +83,6 @@
 * high frequency feedback 
 * (modify One-Page Presentation)
 
-## [Business Model](./Business%20Model/)
+
 
 </div>
