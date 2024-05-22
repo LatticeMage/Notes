@@ -32,15 +32,15 @@
 
 ## One-Page Presentation
 
-* <button class="download" data-url="proposal.html">Download Proposal Template</button>
-* <button class="download" data-url="proposal.yml">Download Proposal YML</button>
+* <button class="download" id="proposal-html" data-url="proposal.html">Download Proposal Template</button>
+* <button class="download" id="proposal-yml" data-url="proposal.yml">Download Proposal YML</button>
 * [Proposal Converter Tool](https://shinra.posetmage.com/GameDesign/Tool/Converter.html)
 
-* <button class="download" data-url="business_model.html">Download Business Model Template</button>
-* <button class="download" data-url="business_model.yml">Download Business Model YML</button>
-
+* <button class="download" id="business-model-html" data-url="business_model.html">Download Business Model Template</button>
+* <button class="download" id="business-model-yml" data-url="business_model.yml">Download Business Model YML</button>
 
 </div>
+
 
 <div class="slide">
 
@@ -89,3 +89,24 @@
 
 
 </div>
+
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Function to handle the download
+    function handleDownload(event) {
+        const url = event.target.getAttribute('data-url');
+        if (url) {
+            window.location.href = url;
+        }
+    }
+
+    // Get all buttons with the class 'download' and add event listeners
+    const downloadButtons = document.querySelectorAll('.download');
+    downloadButtons.forEach(function(button) {
+        button.addEventListener('click', handleDownload);
+    });
+});
+</script>
