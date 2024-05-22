@@ -1,42 +1,48 @@
-Version: "1.0.1"
+version: "1.0.1"
 
-Team: "PosetMage"
+team: "PosetMage"
 
-Product_Title: "SEO Writer AI"
+product_title: "Demeter - SEO Writer"
 
-Product_Type: "AI Writer for SEO Optimization"
+product_type: "AI workflow for SEO Writer"
 
-Purpose: "An AI agent designed to help writers create SEO-optimized content effortlessly and efficiently. It aims to enhance the quality of content and improve search engine rankings."
+abstract: "A local AI solution that writes high-quality content and optimizes articles for SEO and community engagement."
 
-Abstract: "SEO Writer AI is an intelligent writing assistant that generates high-quality, SEO-optimized content based on given keywords and topics. It assists writers by providing real-time suggestions, keyword analysis, and content structure optimization."
+define: "An AI agent designed to help writers create SEO-optimized content effortlessly and efficiently. It enhances content quality and improves search engine rankings."
 
-Usage: "◆ Input target keywords and topics
-◆ Receive real-time suggestions and improvements
-◆ Automatically generate content outlines
-◆ Analyze and optimize existing content"
+usage: 
+  - "Input target keywords and topics"
+  - "Receive real-time suggestions and improvements"
+  - "Automatically generate content outlines"
+  - "Analyze and optimize existing content"
 
-TA: "◆ Content creators and SEO professionals
-◆ Bloggers and digital marketers
-◆ Platforms: Web-based application, mobile app"
+target_audience: 
+  - "Content creators and SEO professionals"
+  - "Bloggers and digital marketers"
+  - "Platforms: Web-based application, mobile app"
 
-Features: "◆ Real-time keyword suggestions
-◆ Automated content generation
-◆ SEO analysis and optimization
-◆ Content structure recommendations"
+features: 
+  - "Real-time keyword suggestions"
+  - "Automated content generation"
+  - "SEO analysis and optimization"
+  - "Content structure recommendations"
 
-Examples: "◆ A blogger using the AI to generate blog posts
-◆ A digital marketer optimizing web pages for better SEO
-◆ An SEO professional analyzing content for improvements"
+examples: 
+  - "A blogger using the AI to generate blog posts"
+  - "A digital marketer optimizing web pages for better SEO"
+  - "An SEO professional analyzing content for improvements"
 
-Competitive: "◆ Jasper AI
-◆ Writesonic
-◆ Copy.ai
-"
+competitive: 
+  - "machined.ai"
+  - "competitor_2"
+  - "competitor_3"
 
-Business_Model: "◆ Subscription-based model
-◆ Freemium with premium features
-◆ Enterprise solutions for large teams"
+business_model: 
+  - "Subscription-based model"
+  - "Freemium with premium features"
+  - "Enterprise solutions for large teams"
 
-Pricing: "◆ Basic: $29/month
-◆ Pro: $79/month
-◆ Enterprise: Custom pricing"
+pricing: 
+  - "Basic: $29/month"
+  - "Pro: $79/month"
+  - "Enterprise: Custom pricing"

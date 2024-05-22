@@ -99,7 +99,12 @@ document.addEventListener('DOMContentLoaded', function() {
     function handleDownload(event) {
         const url = event.target.getAttribute('data-url');
         if (url) {
-            window.location.href = url;
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = ''; // Setting download attribute will trigger the save dialog
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
         }
     }
 
@@ -109,4 +114,5 @@ document.addEventListener('DOMContentLoaded', function() {
         button.addEventListener('click', handleDownload);
     });
 });
+
 </script>
