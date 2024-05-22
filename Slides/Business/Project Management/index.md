@@ -31,11 +31,14 @@
 <div class="slide">
 
 ## One-Page Presentation
-* [Proposal Template](proposal.html)
-* [Fill Data](./proposal.yml)
+
+* <button class="download" data-url="proposal.html">Download Proposal Template</button>
+* <button class="download" data-url="proposal.yml">Download Proposal YML</button>
 * [Proposal Converter Tool](https://shinra.posetmage.com/GameDesign/Tool/Converter.html)
 
-* [Business Model](./proposal)
+* <button class="download" data-url="business_model.html">Download Business Model Template</button>
+* <button class="download" data-url="business_model.yml">Download Business Model YML</button>
+
 
 </div>
 
