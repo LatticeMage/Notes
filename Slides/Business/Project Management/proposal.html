@@ -1,91 +1,192 @@
-<style>
-  body {
-    background-color: rgb(53, 52, 52);
-    color: white;
-  }
-  td {
-    text-align: center;
-    vertical-align: middle;
-  }
-  .align-left {
-    text-align: left;
-  }
-  .large {
-    font-size: 3em;
-    font-weight: bold;
-    background-color: rgb(13, 65, 3);
-  }
-  .center-text {
-    text-align: center;
-  }
-  .bold-text {
-    font-weight: bold;
-    background-color: rgb(3, 26, 75);
-  }
-  .table-cell {
-    width: 100%; /* Ensure the table cell takes up the full width */
-    height: auto; /* Let the image height adjust automatically */
-  }
-  
-  .table-cell img {
-    max-width: 100%; /* Make the image fit within the table cell */
-    height: auto; /* Let the image height adjust automatically */
-  }
-
-  .table-container {
-    display: flex;
-    justify-content: center;
-  }
-</style>
-
-<div class="table-container">
-<table style="width: 720px; table-layout: fixed;">
-  <tr style="height: 20px"></tr>
-  <tr>
-    <td colspan="2" rowspan="2" class="large">{{Product_Title}}</td>
-    <td class="bold-text">Product Type</td>    
-  </tr>
-  <tr>
-    <td>{{Product_Type}}</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">Author:</td>
-    <td style="text-align: left;">{{Author}}</td>
-    <td>ver: {{Version}}</td>    
-  </tr>
-  <tr>
-    <td colspan="2" class="bold-text">Product Purpose</td>
-    <td class="bold-text">Product Abstract</td>
-  </tr>
-  <tr>
-    <td colspan="2">{{Purpose}}</td>
-    <td>{{Abstract}}</td>
-  </tr>
-  <tr>
-    <td class="bold-text">Usage Method</td>
-    <td class="bold-text">Product Features</td>
-    <td class="bold-text">Similar Competitors</td>
-  </tr>
-  <tr>
-    <td class="align-left">{{Usage}}</td>
-    <td class="align-left">{{Features}}</td>
-    <td class="align-left">{{Competitive}}</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="bold-text">Usage Examples</td>
-    <td class="bold-text">Target Audience</td>
-  </tr>
-  <tr>
-    <td colspan="2">{{Examples}}</td>
-    <td class="align-left">{{TA}}</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="bold-text">Business Model</td>
-    <td class="bold-text">Pricing</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="table-cell">{{Business_Model}}</td>
-    <td>{{Pricing}}</td>
-
-</table>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combined Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(53, 52, 52);
+            color: white;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .page {
+            margin: 20px;
+            width: 100%;
+            max-width: 1200px;
+        }
+        td {
+            text-align: center;
+            vertical-align: middle;
+            border: 2px solid white;
+            padding: 5px;
+        }
+        .align-left {
+            text-align: left;
+        }
+        .large {
+            font-size: 3em;
+            font-weight: bold;
+            background-color: rgb(13, 65, 3);
+        }
+        .center-text {
+            text-align: center;
+        }
+        .bold-text {
+            font-weight: bold;
+            background-color: rgb(3, 26, 75);
+        }
+        .table-cell {
+            width: 100%;
+            height: auto;
+        }
+        .table-cell img {
+            max-width: 100%;
+            height: auto;
+        }
+        .table-container {
+            display: flex;
+            justify-content: center;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        img {
+            height: 40px;
+            vertical-align: middle;
+        }
+        h2 {
+            display: inline;
+            margin: 5px;
+            vertical-align: middle;
+            font-size: 1.3em;
+        }
+        .double-width {
+            width: calc(50% - 20px);
+        }
+        #content {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <div class="table-container">
+            <table style="table-layout: fixed;">
+                <tr style="height: 20px"></tr>
+                <tr>
+                    <td colspan="2" rowspan="2" class="large">{{Product_Title}}</td>
+                    <td class="bold-text">Product Type</td>
+                </tr>
+                <tr>
+                    <td>{{Product_Type}}</td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;">Author:</td>
+                    <td style="text-align: left;">{{Author}}</td>
+                    <td>ver: {{Version}}</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="bold-text">Product Purpose</td>
+                    <td class="bold-text">Product Abstract</td>
+                </tr>
+                <tr>
+                    <td colspan="2">{{Purpose}}</td>
+                    <td>{{Abstract}}</td>
+                </tr>
+                <tr>
+                    <td class="bold-text">Usage Method</td>
+                    <td class="bold-text">Product Features</td>
+                    <td class="bold-text">Similar Competitors</td>
+                </tr>
+                <tr>
+                    <td class="align-left">{{Usage}}</td>
+                    <td class="align-left">{{Features}}</td>
+                    <td class="align-left">{{Competitive}}</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="bold-text">Usage Examples</td>
+                    <td class="bold-text">Target Audience</td>
+                </tr>
+                <tr>
+                    <td colspan="2">{{Examples}}</td>
+                    <td class="align-left">{{TA}}</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="bold-text">Business Model</td>
+                    <td class="bold-text">Pricing</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="table-cell">{{Business_Model}}</td>
+                    <td>{{Pricing}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="page">
+        <table>
+            <tr>
+                <td style="width: 180px;">
+                    <img src="partner.webp" alt="Partner">
+                    <h2>Partner</h2>
+                    <p id="content">youtuber</p>
+                </td>
+                <td style="width: 180px;">
+                    <img src="action.webp" alt="Action">
+                    <h2>FC</h2>
+                    <p id="content">Keep developing prompt engineering<br></p>
+                </td>
+                <td style="width: 180px;">
+                    <img src="value.webp" alt="Value">
+                    <h2>Value</h2>
+                    <p id="content">Automation SEO writing with AI workflow</p>
+                </td>
+                <td style="width: 180px;">
+                    <img src="crm.webp" alt="CRM">
+                    <h2>CRM</h2>
+                    <p id="content">◆ Prompt Lecture<br>◆ SEO Lecture<br>◆ Marketing Lecture</p>
+                </td>
+                <td style="width: 180px;">
+                    <img src="ta.webp" alt="TA">
+                    <h2>TA</h2>
+                    <p id="content">◆ Company with 100 crew size<br>◆ Sell product with knowledge base</p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 180px;">
+                    <img src="competitor.webp" alt="Competitor">
+                    <h2>Competitor</h2>
+                    <p id="content">Cloud based seo service</p>
+                </td>
+                <td style="width: 180px;">
+                    <img src="cost.webp" alt="Cost">
+                    <h2>VC</h2>
+                    <p id="content">◆ Teaching</p>
+                </td>
+                <td style="width: 180px;">
+                    <img src="moat.webp" alt="Moat">
+                    <h2>Moat</h2>
+                    <p id="content">◆ Prompt Engineer<br>◆ Frontier Research<br>◆ SEO domain<br>◆ Marketing domain</p>
+                </td>
+                <td style="width: 180px;">
+                    <img src="sales.webp" alt="Sales">
+                    <h2>Sales</h2>
+                    <p id="content">Use our SEO writing</p>
+                </td>
+                <td style="width: 180px;">
+                    <img src="cashflow.webp" alt="Cash Flow">
+                    <h2>Cash Flow</h2>
+                    <p id="content">◆ Pay once/per year?<br>◆ Subscription?</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
