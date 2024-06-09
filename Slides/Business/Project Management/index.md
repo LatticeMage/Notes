@@ -85,13 +85,23 @@
 * deep observe how user use product
 * high frequency feedback 
 * (modify One-Page Presentation)
-
+* Keep increasing price until compalain but still buying
 
 
 </div>
 
 
+<div class="slide">
 
+## Developing Curve
+
+* ![](Img/Dilemma.webp)
+
+
+* <div style="background-color: white; display: inline-block; padding: 10px;"><img src="Img/Developing Curve.svg" alt="SVG Image" /></div>
+  * 《創新的兩難》 (The Innovator’s Dilemma)
+
+</div>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
