@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          submodules: 'recursive'  # This will recursively clone submodules
+          fetch-depth: 0  # Fetch all history for .GitInfo and .Lastmod
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build
