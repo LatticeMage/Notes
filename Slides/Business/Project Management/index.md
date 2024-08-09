@@ -70,10 +70,13 @@
 
 * MVP
   * ![](MVP.webp)
+  image source on website
 * Spiral Model
-  * ![](https://www.bdtask.com/blog/assets/plugins/ckfinder/core/connector/php/uploads/images/xwhat,P20is,P20spiral,P20model,P20for,P20software,P20development.jpg.pagespeed.ic.vL7MBvEhah.webp)
+  * ![](spiral%20model.webp)
+  * image source: https://www.bdtask.com/blog/spiral-model-for-software-development
 * Vertical Slicing
-  * ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Vertical_slice.png)
+  * ![](Vertical_slice.webp)
+  * image source: [wiki](https://en.wikipedia.org/wiki/Vertical_slice)
 
 </div>
 
