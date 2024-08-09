@@ -70,13 +70,13 @@
 
 * MVP
   * ![](MVP.webp)
-  image source on website
+  image source from google search websites
 * Spiral Model
   * ![](spiral%20model.webp)
-  * image source: https://www.bdtask.com/blog/spiral-model-for-software-development
+  * image source: [Spiral Model For Software Development- A Risky-Driven Model](https://www.bdtask.com/blog/spiral-model-for-software-development)
 * Vertical Slicing
   * ![](Vertical_slice.webp)
-  * image source: [wiki](https://en.wikipedia.org/wiki/Vertical_slice)
+  * image source: [wiki - Vertical_slice](https://en.wikipedia.org/wiki/Vertical_slice)
 
 </div>
 
@@ -99,10 +99,9 @@
 ## Developing Curve
 
 * ![](Img/Dilemma.webp)
-
+  * 《創新的兩難》 (The Innovator’s Dilemma)
 
 * <div style="background-color: white; display: inline-block; padding: 10px;"><img src="Img/Developing Curve.svg" alt="SVG Image" /></div>
-  * 《創新的兩難》 (The Innovator’s Dilemma)
 
 </div>
 
