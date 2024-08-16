@@ -1,4 +1,6 @@
-# Representative Consumer
+# Persona
+
+"representative consumer" is essentially the same concept as a "Persona." Both terms refer to a fictional character created to represent a typical member of a target audience or consumer group.
 
 ## Understanding the Link Between Target Audience (TA) and Representative Consumer (RC)
 
